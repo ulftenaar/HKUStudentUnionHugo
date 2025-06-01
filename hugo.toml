@@ -1,4 +1,4 @@
-baseURL = 'http://archive.hkustudentunion.nl/HKUStudentUnionHugo/'
+baseURL = 'https://archive.hkustudentunion.nl/HKUStudentUnionHugo/'
 languageCode = 'en-us'
 title = 'HKU Student Union'
 theme = 'HSU_HugoTheme'
