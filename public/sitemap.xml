@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/categories/</loc>
     <lastmod>2025-06-01T11:41:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/emaillog/email/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/log/emaillog/email/</loc>
     <lastmod>2025-06-01T11:41:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/emails/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/categories/emails/</loc>
     <lastmod>2025-06-01T11:41:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/tags/</loc>
     <lastmod>2025-06-01T11:41:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workshop-alumni/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/tags/workshop-alumni/</loc>
     <lastmod>2025-06-01T11:41:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/log/</loc>
     <lastmod>2025-05-31T13:03:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/events/</loc>
     <lastmod>2025-05-30T14:00:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/newsletters/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/newsletters/</loc>
     <lastmod>2025-05-30T13:58:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meetingnotes/meetingnotes_052925/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/meetingnotes/meetingnotes_052925/</loc>
     <lastmod>2025-05-29T23:52:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meetingnotes/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/meetingnotes/</loc>
     <lastmod>2025-05-29T23:52:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/finances/financereport_may2025/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/finances/financereport_may2025/</loc>
     <lastmod>2025-05-29T23:48:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/finances/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/finances/</loc>
     <lastmod>2025-05-29T23:48:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/newsletters/hsu_newsletter_001/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/newsletters/hsu_newsletter_001/</loc>
     <lastmod>2025-05-29T23:45:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/cvb_email_workshops_052925/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/log/cvb_email_workshops_052925/</loc>
     <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/green/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-3/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/posts/post-3/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/red/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-2/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/posts/post-2/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/post-1/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/posts/post-1/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/HKUStudentUnionHugo/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url>
 </urlset>

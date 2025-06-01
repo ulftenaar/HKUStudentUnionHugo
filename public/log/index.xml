@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activity Log on HKU Student Union</title>
-    <link>http://localhost:1313/log/</link>
+    <link>http://localhost:1313/HKUStudentUnionHugo/log/</link>
     <description>Recent content in Activity Log on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jun 2025 11:41:50 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/HKUStudentUnionHugo/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Email</title>
-      <link>http://localhost:1313/log/emaillog/email/</link>
+      <link>http://localhost:1313/HKUStudentUnionHugo/log/emaillog/email/</link>
       <pubDate>Sun, 01 Jun 2025 11:41:50 +0200</pubDate>
-      <guid>http://localhost:1313/log/emaillog/email/</guid>
+      <guid>http://localhost:1313/HKUStudentUnionHugo/log/emaillog/email/</guid>
       <description>&lt;p&gt;Dit gaat over emails&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops Email CvB 29 May 25</title>
-      <link>http://localhost:1313/log/cvb_email_workshops_052925/</link>
+      <link>http://localhost:1313/HKUStudentUnionHugo/log/cvb_email_workshops_052925/</link>
       <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
-      <guid>http://localhost:1313/log/cvb_email_workshops_052925/</guid>
+      <guid>http://localhost:1313/HKUStudentUnionHugo/log/cvb_email_workshops_052925/</guid>
       <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
     </item>
   </channel>
