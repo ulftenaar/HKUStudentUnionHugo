@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletters on HKU Student Union</title>
+    <link>http://localhost:1313/newsletters/</link>
+    <description>Recent content in Newsletters on HKU Student Union</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 23:45:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HSU_Newsletter_001</title>
+      <link>http://localhost:1313/newsletters/hsu_newsletter_001/</link>
+      <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
+      <guid>http://localhost:1313/newsletters/hsu_newsletter_001/</guid>
+      <description>&lt;h1 id=&#34;dit-is-een-stuk-tekst-over-de-nieuwsletter&#34;&gt;Dit is een stuk tekst over de nieuwsletter&lt;/h1&gt;&#xA;&lt;p&gt;en dit is het&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
