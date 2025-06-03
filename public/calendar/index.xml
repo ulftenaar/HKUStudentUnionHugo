@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calendar on HKU Student Union</title>
+    <link>http://localhost:1313/calendar/</link>
+    <description>Recent content in Calendar on HKU Student Union</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Jun 2025 17:15:14 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>http://localhost:1313/calendar/post1/</link>
+      <pubDate>Tue, 03 Jun 2025 17:15:14 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/post1/</guid>
+      <description>Whatever</description>
+    </item>
+  </channel>
+</rss>

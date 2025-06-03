@@ -1,0 +1,36 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<hr />
+{{ range .Pages }}
+<!-- <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2> -->
+<details><summary>{{ .Summary }}</summary>{{ .Content }}</details>
+<!-- {{ .Content }} -->
+{{ end }}
+<!-- <div class="taxonomy-summary"> -->
+<!--   <h3><a href="{{  "/catogeries/" | relURL }}">Categories</a></h3> -->
+<!--   <ul> -->
+<!--     {{ range $name, $taxonomy := .Site.Taxonomies.categories }} -->
+<!--       <li><a href="{{ "/categories/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li> -->
+<!--     {{ end }} -->
+<!--   </ul> -->
+<!---->
+<!-- <div class="taxonomy"> -->
+<!-- {{ if eq .Section "log" }}  -->
+<!--   <h3>Categories</h3> -->
+<!--   <ul> -->
+<!--     {{ range $name, $taxonomy := .Site.Taxonomies.categories }} -->
+<!--       <li><a href="{{ "/categories/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li> -->
+<!--     {{ end }} -->
+<!--   </ul> -->
+<!---->
+<!-- {{ end }} -->
+<!---->
+<!--   <h3>Tags</h3> -->
+<!--   <ul> -->
+<!--     {{ range $name, $taxonomy := .Site.Taxonomies.tags }} -->
+<!--       <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li> -->
+<!--     {{ end }} -->
+<!--   </ul> -->
+<!-- </div> -->
+{{ end }}

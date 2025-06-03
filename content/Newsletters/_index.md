@@ -4,4 +4,4 @@ draft = false
 title = 'Newsletters'
 +++
 
-Dit is een stukje tekst over onze newsletters
+The Union has a monthly (approximately) newsletter. This will be sent via Email and we will talk about some important updates and new events that we will be organising! Want to sign up? Click [here](hku)

@@ -4,4 +4,4 @@ draft = false
 title = 'Events'
 +++
 
-Dit is een stukje over onze events
+On this page you can find information and pictures of all our past events.
