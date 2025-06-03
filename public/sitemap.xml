@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/calendar/post1/</loc>
+    <loc>http://localhost:49472/calendar/post1/</loc>
     <lastmod>2025-06-03T17:15:14+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/calendar/</loc>
+    <loc>http://localhost:49472/calendar/</loc>
     <lastmod>2025-06-03T17:09:27+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hku4palestine/</loc>
+    <loc>http://localhost:49472/tags/hku4palestine/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/palestine/</loc>
+    <loc>http://localhost:49472/tags/palestine/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/26maypotluck/</loc>
+    <loc>http://localhost:49472/events/26maypotluck/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:49472/tags/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/other/workshoppetition/</loc>
+    <loc>http://localhost:49472/log/other/workshoppetition/</loc>
     <lastmod>2025-06-02T17:48:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workshops-alumni/</loc>
+    <loc>http://localhost:49472/tags/workshops-alumni/</loc>
     <lastmod>2025-06-02T17:48:33+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/</loc>
+    <loc>http://localhost:49472/log/</loc>
     <lastmod>2025-05-31T13:03:54+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/events/</loc>
+    <loc>http://localhost:49472/events/</loc>
     <lastmod>2025-05-30T14:00:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/newsletters/</loc>
+    <loc>http://localhost:49472/newsletters/</loc>
     <lastmod>2025-05-30T13:58:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meetingnotes/meetingnotes_052925/</loc>
+    <loc>http://localhost:49472/meetingnotes/meetingnotes_052925/</loc>
     <lastmod>2025-05-29T23:52:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/meetingnotes/</loc>
+    <loc>http://localhost:49472/meetingnotes/</loc>
     <lastmod>2025-05-29T23:52:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/finances/financereport_may2025/</loc>
+    <loc>http://localhost:49472/finances/financereport_may2025/</loc>
     <lastmod>2025-05-29T23:48:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/finances/</loc>
+    <loc>http://localhost:49472/finances/</loc>
     <lastmod>2025-05-29T23:48:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/newsletters/hsu_newsletter_001/</loc>
+    <loc>http://localhost:49472/newsletters/hsu_newsletter_001/</loc>
     <lastmod>2025-05-29T23:45:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:49472/categories/</loc>
     <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cvb/</loc>
+    <loc>http://localhost:49472/tags/cvb/</loc>
     <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/emails/</loc>
+    <loc>http://localhost:49472/categories/emails/</loc>
     <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/log/emaillog/cvb_email_workshops_052925/</loc>
+    <loc>http://localhost:49472/log/emaillog/cvb_email_workshops_052925/</loc>
     <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:49472/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url>
 </urlset>
