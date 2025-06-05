@@ -1,6 +1,16 @@
-{{range .Site.Menus.mainmenu }}
-<header>
-  <nav>
-  <a href="{{ .URL}}">{{ .Name}}</a></nav>
-</header>
+<!-- {{range .Site.Menus.mainmenu }} -->
+<!-- <header> -->
+<!--   <nav> -->
+<!--   <a href="{{ .URL}}">{{ .Name}}</a></nav> -->
+<!-- </header> -->
+<!-- {{ end }} -->
+{{ $archive := site.GetPage "section" "archive" }}
+{{ if $archive }}
+  {{ range $archive.Sections }}
+    <header>
+      <nav>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a> aa
+      </nav>
+    </header>
+  {{ end }}
 {{ end }}

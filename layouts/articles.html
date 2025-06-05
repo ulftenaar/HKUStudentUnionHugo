@@ -1,0 +1,34 @@
+
+{{ define "main" }} 
+<h1>{{ .Title }}</h1>
+  {{ .Content }}
+<hr>
+<div class="page">
+  <div class="main">
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }} {{
+$dateHuman := .Date | time.Format ":date_long" }}
+      <h7><em>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></em></h7>
+    {{ .Content }}
+    <hr>
+  {{ end }}
+  </div>
+  <div class="side"> 
+    <ol>
+    {{ range .Pages }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }} </a></li>
+    {{ end }}
+    </ol>
+    <hr>
+  <h3>Tags</h3>
+  <ol>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
+    {{ end }}
+  </ol>
+  </div>
+</div>
+
+{{ end }}

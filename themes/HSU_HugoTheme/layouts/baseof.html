@@ -1,19 +1,29 @@
-<!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <div class="fullpage">
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-  </div>
-</body>
+<!doctype html>
+<html
+  lang="{{ site.Language.LanguageCode }}"
+  dir="{{ or site.Language.LanguageDirection `ltr` }}"
+>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+ 
+<header>
+  {{ with .File }}
+    {{ if strings.HasPrefix .Path "archive/" }}
+      {{ partial "header.html" $ }}
+    {{ else }}
+      {{ partial "header2.html" $ }}
+    {{ end }}
+  {{ else }}
+    {{ partial "header2.html" . }}
+  {{ end }}
+</header>
+
+
+    <div class="fullpage">
+      <main>{{ block "main" . }}{{ end }}</main>
+      <footer>{{ partial "footer.html" . }}</footer>
+    </div>
+  </body>
 </html>

@@ -10,4 +10,45 @@ favicon = "/favicon.io"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[menu]
+[[menu.home]]
+  name = 'About'
+  url = '/about/'
+  weight = 10 
+[[menu.home]]
+  name = 'Calendar'
+  url = '/calendar/'
+  weight = 20 
+[[menu.home]]
+  name = 'Articles'
+  url = '/articles/'
+  weight = 30
+[[menu.home]]
+  name = 'Join'
+  url = '/join/'
+  weight = 40 
+[[menu.home]]
+  name = 'Contact'
+  url = '/contact/'
+  weight = 50
+[[menu.home]]
+  name = 'Archive'
+  url = '/Archive/'
+  weight = 60 
+[[menu.main]]
+  name = 'Log'
+  url = '/archive/log'
+  weight = 10
+[[menu.main]]
+  name = 'Meeting Notes'
+  url = '/archive/meetingnotes'
+  weight = 20
+[[menu.main]]
+  name = 'Newsletters'
+  url = '/archive/newsletters'
+  weight = 30
+[[menu.main]]
+  name = 'Events'
+  url = '/archive/events'
+  weight = 40
 

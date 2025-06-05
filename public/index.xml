@@ -2,60 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on HKU Student Union</title>
-    <link>http://localhost:49472/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 17:15:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49472/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Post1</title>
-      <link>http://localhost:49472/calendar/post1/</link>
-      <pubDate>Tue, 03 Jun 2025 17:15:14 +0200</pubDate>
-      <guid>http://localhost:49472/calendar/post1/</guid>
-      <description>Whatever</description>
-    </item>
-    <item>
-      <title>Sit-In &amp; Potluck for Palestine</title>
-      <link>http://localhost:49472/events/26maypotluck/</link>
-      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
-      <guid>http://localhost:49472/events/26maypotluck/</guid>
-      <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
-    </item>
-    <item>
-      <title>Workshop Petition</title>
-      <link>http://localhost:49472/log/other/workshoppetition/</link>
-      <pubDate>Mon, 02 Jun 2025 17:48:33 +0200</pubDate>
-      <guid>http://localhost:49472/log/other/workshoppetition/</guid>
-      <description>A Summary of the Petition the Union started on the Workshops in April 2025</description>
-    </item>
-    <item>
-      <title>Meeting Notes 29 May</title>
-      <link>http://localhost:49472/meetingnotes/meetingnotes_052925/</link>
-      <pubDate>Thu, 29 May 2025 23:52:10 +0200</pubDate>
-      <guid>http://localhost:49472/meetingnotes/meetingnotes_052925/</guid>
-      <description>About the workshop policy and a follow-up email to the CvB, planning an action for the workshops, discussed next school year and how to introduce the new first years to the Union,</description>
-    </item>
-    <item>
-      <title>FinanceReport_May2025</title>
-      <link>http://localhost:49472/finances/financereport_may2025/</link>
-      <pubDate>Thu, 29 May 2025 23:48:51 +0200</pubDate>
-      <guid>http://localhost:49472/finances/financereport_may2025/</guid>
-      <description>&lt;p&gt;In: 0&lt;br&gt;&#xA;Out: 2000million;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Newsletter 001</title>
-      <link>http://localhost:49472/newsletters/hsu_newsletter_001/</link>
-      <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
-      <guid>http://localhost:49472/newsletters/hsu_newsletter_001/</guid>
-      <description>The first newsletter of the Union, about the workshops, our structure, platforms and two events.</description>
-    </item>
-    <item>
-      <title>Workshops Emails with CvB</title>
-      <link>http://localhost:49472/log/emaillog/cvb_email_workshops_052925/</link>
-      <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
-      <guid>http://localhost:49472/log/emaillog/cvb_email_workshops_052925/</guid>
-      <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

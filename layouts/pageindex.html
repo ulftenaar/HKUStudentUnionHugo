@@ -1,0 +1,29 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+<div class="page">
+  <div class="main">
+
+  {{ .Content }}
+  <!-- {{ range .Pages }} -->
+  <!--   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2> -->
+  <!--   {{ .Summary }} -->
+  <!-- {{ end }} -->
+  </div>  
+  <div class="side"> 
+    {{ range .Resources.Match "side.md" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content}}
+    {{ end }}
+  </div>
+
+
+
+</div>
+<hr>
+  <!-- <h3>Tags</h3> -->
+  <!-- <ul> -->
+  <!--   {{ range $name, $taxonomy := .Site.Taxonomies.tags }} -->
+  <!--     <li><a href="{{ "tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li> -->
+  <!--   {{ end }} -->
+  <!-- </ul> -->
+{{ end }}

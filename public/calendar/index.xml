@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar on HKU Student Union</title>
-    <link>http://localhost:49472/calendar/</link>
+    <link>http://localhost:1313/calendar/</link>
     <description>Recent content in Calendar on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 17:15:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49472/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jun 2025 15:37:26 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post1</title>
-      <link>http://localhost:49472/calendar/post1/</link>
-      <pubDate>Tue, 03 Jun 2025 17:15:14 +0200</pubDate>
-      <guid>http://localhost:49472/calendar/post1/</guid>
-      <description>Whatever</description>
+      <title>Workshops13june</title>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
+      <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
+      <description>Date TBA, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
+    </item>
+    <item>
+      <title>Quiltingforpalestine</title>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
+      <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
+      <description>12 June, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>
 </rss>

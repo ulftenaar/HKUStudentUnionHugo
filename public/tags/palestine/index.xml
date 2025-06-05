@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Palestine on HKU Student Union</title>
-    <link>http://localhost:49472/tags/palestine/</link>
+    <link>http://localhost:1313/tags/palestine/</link>
     <description>Recent content in Palestine on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 15:17:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49472/tags/palestine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jun 2025 15:28:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/palestine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sit-In &amp; Potluck for Palestine</title>
-      <link>http://localhost:49472/events/26maypotluck/</link>
-      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
-      <guid>http://localhost:49472/events/26maypotluck/</guid>
-      <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
+      <title>Quiltingforpalestine</title>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
+      <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
+      <description>12 June, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>
 </rss>

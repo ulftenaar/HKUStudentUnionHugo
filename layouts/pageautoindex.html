@@ -1,0 +1,43 @@
+
+{{ define "main" }} 
+<h1>{{ .Title }}</h1>
+    {{ .Content }}
+<div class="page">
+  <div class="main">
+
+    <!-- 
+    {{ range .Pages }}
+      <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+      {{ .Summary }}
+    {{ end }}
+    -->
+  </div> <!-- end .main -->
+
+  <div class="side">
+    {{ $content := .Content }}
+    {{ $re := `(?s)<h4[^>]*id="([^"]+)"[^>]*>(.*?)</h4>` }}
+    {{ $matches := findRESubmatch $re $content }}
+
+    {{ if $matches }}
+      <h3>Sections</h3>
+      <ol>
+        {{ range $matches }}
+          {{ $id := index . 1 }}
+          {{ $rawText := index . 2 }}
+          {{ $text := $rawText | plainify | htmlUnescape }}
+          <li><a href="#{{ $id }}">{{ $text }}</a></li>
+        {{ end }}
+      </ol>
+    {{ end }}
+  </div> <!-- end .side -->
+
+</div> <!-- end .page -->
+  <hr>
+  <h3>Tags</h3>
+  <ul>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
+    {{ end }}
+  </ul>
+{{ end }}
+

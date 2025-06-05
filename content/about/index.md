@@ -1,0 +1,104 @@
++++
+date = '2025-06-05T09:18:33+02:00'
+draft = false
+title = 'About'
+layout = 'pageautoindex'
+summary = ''
+categories = ['']
+tags = ['']
++++
+The Union tries to be as transparent as possible. On this page you can find most information about our organisation and our values. This page is a work in progress and we are updating it constantly.
+Have a question or is there information missing? Mail us at: ants@hkustudentunion.com
+
+#### Mission and Purpose
+*Do Something about institutional racism  
+Do Something about complicity in genocide  
+Do Something about democratising HKU  
+Do Something about student well-being  
+Do Something about creating an HKU-wide community  
+Do Something | HKU Student Union*
+
+Every policy decision about the HKU is made by the unelected board of directors, the CvB. This makes the HKU a very undemocratic institution. The only prominent form of student representation is that of class representatives, whose advice to the board is non-binding, and whose role is in facilitating isolated communication between individual students and faculty directors.
+
+The CvB has rolled in favour of negative policies for the students and staff of the HKU such as:
+- The ban on Alumni students from HKU Workshops, leaving students without the tools to easily continue their practices.
+- The pretending ignorance of institutional racism that made two teachers quit their position.
+- The change from a self-owned mailing service and move towards Microsoft Outlook, furthering depending HKU on private American technology companies.
+- The dissolution of the technical center at HKU Oudenoord, a space created to help students, to create an office for a higher up.
+
+The HKU student union opposes the undemocratic nature of the HKU and aims to facilitate the coming together of critical students across all HKU schools. It is a loose association meant to provide the connecting tissue between otherwise isolated students, so we can speak up and influence the policies that affect our community as a unified voice. By providing channels of communication, we can facilitate meetings to organise protests, mass complains or negotiations with the board. Furthermore, we aim to publish zines, statements, posters, etc. communicating our goals and ideas.
+
+#### Why do we need a Union?
+The HKU is the final step before students go into the job market to sell their labour. The education and conditions of the HKU is what will dictate student performance and learnt skills. Therefore it has an immense impact in the future life of all students.
+
+In the present, each and every student, teacher and employee, has a full life in the HKU, whether its classes, social activities or others, the way the school is ran has a direct impact on their day to day life, of which poor management can cause severe negative consequences to the students such as mental problems and financial stress. For most students, and some teachers, the HKU is a place they go to almost every day, so it is of importance that everyone can feel at home and that their needs are met.
+
+After studying, the HKU continues to have impact, since there are 800[^label] new young artists leaving into the world every year. The values and way of thinking that the alumni have been exposed to, continues to live on.
+
+Next to the individual lives, the HKU as an institution has a massive impact. Being one of the biggest art schools in Europe, with a cash flow of 70 million per year, more than 4400 students, and 900 employees[^label], the HKU is not a small, cozy school, that it impersonates. Considering that the HKU has so much impact, it is of utmost importance, to have a fully independent organisation - that represents the values of the students and teachers - to keep the CvB of the HKU in check.
+
+As opposed to the other limbs of the HKU with students and teachers involved, like the CMR and the OC. The Union can take more direct actions, like negotiation, demonstrations and protests. In these actions, the students and teachers take a much more active role.
+
+[^label]:1 [HKU Annual Report 2023](https://www.hku.nl/getmedia/0e020c7f-2557-4c7e-aca0-4cae648cad35/HKUjaarverslag-2023.pdf)
+
+#### Who are the members?
+Although we are called the HKU Student Union, teachers, employees and alumni are also welcome to join. The Union is for everyone who wants their voice heard.
+
+The organising members are also all students, who make time for the Union, some join the meetings weekly, and some sporadically.
+
+#### Structure of the Union
+In the Union, everyone is equal. We are a flat organisation without an executive board or leaders. We make decisions by consensus. We have general meetings every Thursday, where everyone can join, and share their vision.
+
+To participate in the Union you can either take on an organisational role or a following role. In following, your voice can empower us in a protest or a petition, and you become a valuable part of our network. Apart from that, you can also help us by spreading the word about the Union and our activities. Input about things happening at your school or helping us build our network through your contacts is helpful.
+
+In organising, you can organise – pretty straight forward. You can either join already existing work groups or use our network to set up a new group with a new goal. We strive to realise both smaller and bigger goals. You can do this by signing up and joining a work group / organisation chat (signal).
+
+If you’d like to do anything on behalf of the union, please do present your ideas at a meeting, send us an email or message us in the signal chat. If this way of organising becomes unsustainable or impractical, we may review it and establish a more formal way of organising the union.
+
+#### Communication
+The union uses multiple platforms to communicate to our members. The most import being this website and our newsletter. The newsletter will be sent via email 1-2 times every month, where we will send updates regarding our activities, upcoming activities and more information. Apart from these, we also send updates regularly in our Whatsapp community, where members can also discuss among themselves.
+
+For organisational communication, the Union uses Signal exclusively. This is our platform of choice for private conversations.
+The union uses Cryptpad as our online data storage, as well as writing other docs and our meeting notes.
+The Union uses Fastmail as our mailing service and internal calendar. The Union’s website is run using a Github repository.
+
+The Union is heavily against Meta, Google, and other Big Tech companies. It strives to use as many open source platforms as possible, which business models are not exploiting their users. Which is the reason why the Union avoids using Instagram to inform it's members.
+
+To also reach students/teachers/employees, that are not members yet, the Union also make use of posters/stickers, and will occasionally spread messages via Whatsapp groups.
+
+#### How do we accomplish our goals?
+The Union strongly believes that united the members can accomplish a whole lot, we call ourselves the ants for a reason.
+
+The first step to accomplish anything is always to inform, so that members can make their own opinions. We do that mainly with posters and articles. We use other platforms to spread those physically and online.
+
+We then try to create a movement, to make sure the people that the message is for, hear us loudly and clearly. We make petitions, make art, or do patching sessions. In the meantime, the Union will usually contact the representatives of the opposing side. And invite them to negotiate. The Union tries to de-escalate wherever possible, but also stands firm and protects our mission.
+
+If the Union sees no other way but to escalate, we can organise demonstrations or strikes. These go by strict rules, and will always be non-violent. We look back with pride to what our comrades already accomplished with peaceful movements, and follow their example.
+
+#### Action Concencus
+Please (re)read this action consensus carefully, it is the Union's binding framework for every action. Because of it, we can ensure that our actions are transparent and that the expectations are clear for the people involved, but also for people on the outside. The Union is not responsible for the individuals who do not follow our action consensus, putting themselves, their fellow participants, but also the power of the whole movement at risk.
+Anyone who agrees to follow this consensus is welcome to join any one of our actions.
+
+We treat everyone equally and with respect. We do not discriminate based on race, gender, sexuality, ethnicity, income or any other basis. Other forms of hate, like antisemitism, homophobia, islamofobie, etc. are also not acceptable
+We always remain non-violent. We do not actively resist against the police, and we try to de-escalate the situation when possible.
+We are not under influence of drugs nor do we have any with us during actions.
+We do not carry weapons.
+We do not destroy or cause irreversible damage to objects.
+We do not litter and clean up after ourselves.
+We follow instructions from the organisation whenever necessary.
+We hold ourselves responsible for our own actions and make our own decisions.
+#### Transparency
+Transparency is important, especially with an organisation that works with, and for the Members of the Union. Members have the right to stay informed with our decisions and the reasons behind them. Therefore we strive to publish our meeting notes, and share as much information as possible.
+
+Everyone is welcome at our meetings, as they are usually in the atrium of the Oudenoord. We do not like working behind closed doors.
+
+#### Finances
+The Union currently does not receive any funding from the HKU, government or any other instance. Although all of our members do any work voluntarily, we still rely on donations for our, tiny, but existing expenses. We pay 5 euro’s per month for our email service and 6 euro’s per year for our website domain. Apart from our fixed expenses, other expenses include, but are not limited to: material costs, printing costs, food and snacks.
+
+We track all of our finances using Actual Budget, and we will publish our financial reports on our website.
+
+#### Responsibility and accountability
+We are aware that speaking for 4400 students and 900 employees[^label], is quite the responsibility. Any decision made by the Union is made carefully by multiple members. Every article and written document is shared to the organising members, so it is checked before being published. Never do we force any member or student/teacher to stand behind us, every individual makes their own decision on each matter.
+
+After every action, we asses and debrief. We talk about what happened, and what we will do different next time. We also ask for feedback from members as much as possible, and are always open for conversation.
+

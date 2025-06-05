@@ -2,39 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HKU Student Union</title>
-    <link>http://localhost:49472/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 15:17:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49472/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HKU4Palestine</title>
-      <link>http://localhost:49472/tags/hku4palestine/</link>
-      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
-      <guid>http://localhost:49472/tags/hku4palestine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Palestine</title>
-      <link>http://localhost:49472/tags/palestine/</link>
-      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
-      <guid>http://localhost:49472/tags/palestine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Workshops Alumni</title>
-      <link>http://localhost:49472/tags/workshops-alumni/</link>
-      <pubDate>Mon, 02 Jun 2025 17:48:33 +0200</pubDate>
-      <guid>http://localhost:49472/tags/workshops-alumni/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CvB</title>
-      <link>http://localhost:49472/tags/cvb/</link>
-      <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
-      <guid>http://localhost:49472/tags/cvb/</guid>
-      <description></description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

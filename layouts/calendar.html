@@ -1,12 +1,25 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 {{ .Content }}
-<hr />
+<hr>
+<div class="page">
+  <div class="main">
+
 {{ range .Pages }}
 <!-- <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2> -->
-<details><summary>{{ .Summary }}</summary>{{ .Content }}</details>
+<section>
+<details><summary>{{ .Summary }}</summary>{{ .Content }}</details></section>
 <!-- {{ .Content }} -->
 {{ end }}
+  </div>
+  <div class="side">
+  <h3>Tags</h3>
+  <ul>
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  </ul>
+  </div>
+
+  </div>
 <!-- <div class="taxonomy-summary"> -->
 <!--   <h3><a href="{{  "/catogeries/" | relURL }}">Categories</a></h3> -->
 <!--   <ul> -->
