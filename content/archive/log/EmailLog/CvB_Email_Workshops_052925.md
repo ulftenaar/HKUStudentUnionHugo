@@ -4,7 +4,7 @@ draft = false
 title = 'Workshops Emails with CvB'
 summary = 'Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months'
 categories = ['emails']
-tags = ['CvB','Workshops Alumni']
+tags = ['CvB','Workshops']
 +++
 
 As you know, the CvB abolished the rule that first year alumni can make use of the workshops. Here you can find an overview of our email correspondence. These emails are in Dutch.

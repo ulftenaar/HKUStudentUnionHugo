@@ -8,6 +8,6 @@ $dateHuman := .Date | time.Format ":date_long" }}
 {{ .Content }}
 <hr />
 
-{{ if eq .Section "log" }} {{ partial "terms.html" (dict "taxonomy"
-"categories" "page" .) }} {{ end }} {{ partial "terms.html" (dict "taxonomy"
+
+{{ partial "terms.html" (dict "taxonomy"
 "tags" "page" .) }} {{ end }}

@@ -22,12 +22,17 @@ $dateHuman := .Date | time.Format ":date_long" }}
     {{ end }}
     </ol>
     <hr>
+
+{{ partial "terms.html" (dict "taxonomy"
+"tags" "page" .) }}
   <h3>Tags</h3>
   <ol>
     {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
     {{ end }}
   </ol>
+
+
   </div>
 </div>
 

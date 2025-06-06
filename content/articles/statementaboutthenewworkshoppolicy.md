@@ -2,10 +2,11 @@
 date = '2025-04-11T11:50:52+02:00'
 draft = false
 title = 'Statement about the new workshop policy'
-summary = ''
+summary = 'First Statement of the Union about the abolishement of the usage of the workshops for first-year alumni'
 categories = ['']
-tags = ['workshops alumni']
+tags = ['workshops']
 +++
+
 As of the 1st of September 2025, it will no longer be possible for alumni to use the workshops at the HKU. In the past, the rule was that this was allowed in the academic year immediately after your graduation. All students who are currently doing a bachelor's, master's or associate's degree will no longer be able to use this arrangement.
 
 The cancellation of this arrangement was communicated to HKU students on the 1st of April via a short message on the Studentportal. This message states that the CvB (Executive Board) has taken this decision because (part of) the money that keeps the workshop running comes from the government. According to a government policy rule, this money may not be used for 'external parties' (in this case, graduates). However, the policy rule has been in effect since 2022; it is unclear why this would only influence the CvB's decision on the alumni arrangement now. It is also unclear why this policy rule would only affect the HKU; other universities of applied sciences (such as the KABK) still maintain a similar alumni arrangement. The CvB of the KABK seems to not have chosen to stop the rule for the use of workshops for their graduates.

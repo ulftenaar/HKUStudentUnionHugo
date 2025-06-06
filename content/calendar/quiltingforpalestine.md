@@ -2,7 +2,7 @@
 date = '2025-06-05T15:28:44+02:00'
 draft = false
 title = 'Quiltingforpalestine'
-summary = '12 June, Nieuwekade 10:00-17:00, Quilting for Palestine'
+summary = 'June 13, Nieuwekade 10:00-17:00, Quilting for Palestine'
 categories = ['']
 tags = ['palestine', 'cvb']
 +++

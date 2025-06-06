@@ -8,4 +8,4 @@ categories = ['']
 tags = ['']
 +++
 
-Written for and by members of the Union. Please mail us to ask for permission before spreading/using these texts in respect for the writer. 
+Written for and by members of the Union. Please mail us to ask for permission before spreading/using these texts out of respect for the writer. 

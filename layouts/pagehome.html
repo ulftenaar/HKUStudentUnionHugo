@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1 style="text-align: center;">{{ .Title }}</h1>
 <hr>
 <div class="page">
   <div class="main">
@@ -11,7 +11,7 @@
   <!-- {{ end }} -->
   </div>  
   <div class="side"> 
-    {{ range .Resources.Match "side.md" }}
+    {{ with site.GetPage "sidehome.md" }}
     <h2>{{ .Title }}</h2>
     {{ .Content}}
     {{ end }}

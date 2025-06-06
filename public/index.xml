@@ -1,12 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on HKU Student Union</title>
+    <title>HKU Student Union</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on HKU Student Union</description>
+    <description>Recent content on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 10:21:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MeetingNotes_060425</title>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</link>
+      <pubDate>Fri, 06 Jun 2025 10:21:54 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</guid>
+      <description>About the action to hand over our bundle of thoughts to the CvB and moving it to the 17th, a new edition of the newsletter and an ant end party at the end of the school year.</description>
+    </item>
+    <item>
+      <title># contributing</title>
+      <link>http://localhost:1313/contribute/</link>
+      <pubDate>Thu, 05 Jun 2025 15:51:44 +0200</pubDate>
+      <guid>http://localhost:1313/contribute/</guid>
+      <description>&lt;p&gt;Dear ant,&lt;/p&gt;&#xA;&lt;p&gt;Welcome. You have made it to the end of the internet. I spend a long time building this website again from the ground up. Our old website looks similar, but is built completely different. That side was just plain old html and css. This was good in the beginning, it didnt take long to set up and it was nice to sketch out ideas.&lt;br&gt;&#xA;However, now that time has past I found that updating the site constantly wouldn&amp;rsquo;t be possible in the future. So i started again. This time using &lt;a href=&#34;https://gohugo.com&#34;&gt;HUGO&lt;/a&gt; as a framework of our website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshops13june</title>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
+      <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
+      <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
+    </item>
+    <item>
+      <title>Quiltingforpalestine</title>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
+      <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
+      <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
+    </item>
+    <item>
+      <title>Join the Union</title>
+      <link>http://localhost:1313/join/</link>
+      <pubDate>Thu, 05 Jun 2025 15:10:49 +0200</pubDate>
+      <guid>http://localhost:1313/join/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 05 Jun 2025 09:18:33 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>The Union tries to be as transparent as possible. On this page you can find most information about our organisation and our values. This page is a work in progress and we are updating it constantly. Have a question or is there information missing? Mail us at: &lt;a href=&#34;mailto:ants@hkustudentunion.com&#34;&gt;ants@hkustudentunion.com&lt;/a&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/sidehome/</link>
+      <pubDate>Wed, 04 Jun 2025 21:53:46 +0200</pubDate>
+      <guid>http://localhost:1313/sidehome/</guid>
+      <description>&lt;h4 id=&#34;general-student-union-meeting&#34;&gt;General Student Union meeting&lt;/h4&gt;&#xA;&lt;p&gt;Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be joined online&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;quilting-action-hku4palestine&#34;&gt;Quilting Action HKU4Palestine&lt;/h4&gt;&#xA;&lt;p&gt;On June 12th HKU4Palestine is organising a quilting action in front of Nieuwekade, read more here&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;new-website&#34;&gt;New website&lt;/h4&gt;&#xA;&lt;p&gt;Check it out! have fun exploring. Don&amp;rsquo;t forget to check our new archives website in the top right.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;new-articles&#34;&gt;New articles&lt;/h4&gt;&#xA;&lt;p&gt;There are two new articles posted on our articles page. One about institutional racism and one on desicionmaking in the HKU.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 04 Jun 2025 21:32:36 +0200</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h3 id=&#34;got-a-question&#34;&gt;Got a Question?&lt;/h3&gt;&#xA;&lt;p&gt;Or do you want to say something to the union? Awesome!&#xA;You can reach us for almost anything: ideas, workshops, potlucks, new art to showcase, demomstrations, you name it! You can reach us at &lt;a href=&#34;mailto:ants@hkustudentunion.com&#34;&gt;ants@hkustudentunion.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;&#xA;&lt;p&gt;Share these with a friend! &lt;em&gt;or click them yourself&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Our friends from &lt;a href=&#34;https://vidius.nl&#34;&gt;Vidius&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Our &lt;a href=&#34;https://chat.whatsapp.com/I45YaiRfLC8D54DcvKrVj5&#34;&gt;Whatsapp&lt;/a&gt; group&lt;/li&gt;&#xA;&lt;li&gt;The HKU for Palestine &lt;a href=&#34;https://www.instagram.com/hku.4.palestine/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hku.One &lt;a href=&#34;https://www.instagram.com/hku.one/&#34;&gt;Instagram&lt;/a&gt; and &lt;a href=&#34;https://hku.one/&#34;&gt;website&lt;/a&gt; striving to create one central platform for HKU students&lt;/li&gt;&#xA;&lt;li&gt;our besties from the &lt;a href=&#34;https://www.hku.nl/en/about-hku/organisation/executive-board&#34;&gt;CvB&lt;/a&gt; #onelove&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sit-In &amp; Potluck for Palestine</title>
+      <link>http://localhost:1313/archive/events/26maypotluck/</link>
+      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
+      <guid>http://localhost:1313/archive/events/26maypotluck/</guid>
+      <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
+    </item>
+    <item>
+      <title>Workshop Petition</title>
+      <link>http://localhost:1313/archive/log/other/workshoppetition/</link>
+      <pubDate>Mon, 02 Jun 2025 17:48:33 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/other/workshoppetition/</guid>
+      <description>A Summary of the Petition the Union started on the Workshops in April 2025</description>
+    </item>
+    <item>
+      <title>Meeting Notes 29 May</title>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_052925/</link>
+      <pubDate>Thu, 29 May 2025 23:52:10 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_052925/</guid>
+      <description>About the workshop policy and a follow-up email to the CvB, planning an action for the workshops, discussed next school year and how to introduce the new first years to the Union,</description>
+    </item>
+    <item>
+      <title>FinanceReport_May2025</title>
+      <link>http://localhost:1313/archive/finances/financereport_may2025/</link>
+      <pubDate>Thu, 29 May 2025 23:48:51 +0200</pubDate>
+      <guid>http://localhost:1313/archive/finances/financereport_may2025/</guid>
+      <description>&lt;p&gt;In: 0&lt;br&gt;&#xA;Out: 2000million;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newsletter 001</title>
+      <link>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</link>
+      <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
+      <guid>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</guid>
+      <description>The first newsletter of the Union, about the workshops, our structure, platforms and two events.</description>
+    </item>
+    <item>
+      <title>Workshops Emails with CvB</title>
+      <link>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</link>
+      <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</guid>
+      <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
+    </item>
+    <item>
+      <title>HKU complicity in the ongoing genocide</title>
+      <link>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</link>
+      <pubDate>Sun, 13 Apr 2025 11:46:48 +0200</pubDate>
+      <guid>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</guid>
+      <description>About the complicity of the HKU and why this is still relevant.</description>
+    </item>
+    <item>
+      <title>Statement about the new workshop policy</title>
+      <link>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</link>
+      <pubDate>Fri, 11 Apr 2025 11:50:52 +0200</pubDate>
+      <guid>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</guid>
+      <description>First Statement of the Union about the abolishement of the usage of the workshops for first-year alumni</description>
+    </item>
+    <item>
+      <title>Institutional Racism in HKU</title>
+      <link>http://localhost:1313/articles/institutionalracisminhku/</link>
+      <pubDate>Sat, 05 Apr 2025 11:57:09 +0200</pubDate>
+      <guid>http://localhost:1313/articles/institutionalracisminhku/</guid>
+      <description>&lt;p&gt;In November of last year, a teacher at HKU-Media resigned because of institutional racism. For years, this teacher experienced comments, questions, and a feeling of loneliness as one of the only teachers of colour. This led to them not feeling welcome at HKU. After years of futile attempts to shine a light on this injustice, they did not see another option other than to resign. The fact that an excellent teacher, and a pillar of support for students of colour, did not feel at home for years is utterly unforgivable.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

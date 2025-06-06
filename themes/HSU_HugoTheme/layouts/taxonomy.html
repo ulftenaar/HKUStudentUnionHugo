@@ -1,7 +1,14 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1>All {{ .Title }}</h1>
   {{ .Content }} 
   {{ range .Pages }}  
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+{{ range .Site.RegularPages }}
+  <h2>{{ .Title }}</h2>
+  {{ with .Params.tags }}
+    Tags: {{ delimit . ", " }}
   {{ end }}
 {{ end }}
+{{ end }}:Q

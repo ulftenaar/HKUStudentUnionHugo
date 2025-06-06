@@ -13,7 +13,21 @@
       <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
       <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
       <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
-      <description>12 June, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
+      <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
+    </item>
+    <item>
+      <title>Sit-In &amp; Potluck for Palestine</title>
+      <link>http://localhost:1313/archive/events/26maypotluck/</link>
+      <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
+      <guid>http://localhost:1313/archive/events/26maypotluck/</guid>
+      <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
+    </item>
+    <item>
+      <title>HKU complicity in the ongoing genocide</title>
+      <link>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</link>
+      <pubDate>Sun, 13 Apr 2025 11:46:48 +0200</pubDate>
+      <guid>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</guid>
+      <description>About the complicity of the HKU and why this is still relevant.</description>
     </item>
   </channel>
 </rss>

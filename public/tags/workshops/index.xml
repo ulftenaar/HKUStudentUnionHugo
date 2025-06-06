@@ -6,6 +6,42 @@
     <description>Recent content in Workshops on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jun 2025 10:21:54 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MeetingNotes_060425</title>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</link>
+      <pubDate>Fri, 06 Jun 2025 10:21:54 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</guid>
+      <description>About the action to hand over our bundle of thoughts to the CvB and moving it to the 17th, a new edition of the newsletter and an ant end party at the end of the school year.</description>
+    </item>
+    <item>
+      <title>Workshops13june</title>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
+      <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
+      <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
+    </item>
+    <item>
+      <title>Workshop Petition</title>
+      <link>http://localhost:1313/archive/log/other/workshoppetition/</link>
+      <pubDate>Mon, 02 Jun 2025 17:48:33 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/other/workshoppetition/</guid>
+      <description>A Summary of the Petition the Union started on the Workshops in April 2025</description>
+    </item>
+    <item>
+      <title>Workshops Emails with CvB</title>
+      <link>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</link>
+      <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</guid>
+      <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
+    </item>
+    <item>
+      <title>Statement about the new workshop policy</title>
+      <link>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</link>
+      <pubDate>Fri, 11 Apr 2025 11:50:52 +0200</pubDate>
+      <guid>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</guid>
+      <description>First Statement of the Union about the abolishement of the usage of the workshops for first-year alumni</description>
+    </item>
   </channel>
 </rss>

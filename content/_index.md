@@ -1,11 +1,11 @@
 +++
 date = '2025-06-04T14:41:03+02:00'
 draft = false
-title = 'Home'
+title = 'HKU Student Union'
 summary = ''
 categories = ['']
 tags = ['']
-layout = 'pageindex'
+layout = 'pagehome'
 +++
 
 ### Mission Statement

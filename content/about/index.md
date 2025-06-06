@@ -3,12 +3,11 @@ date = '2025-06-05T09:18:33+02:00'
 draft = false
 title = 'About'
 layout = 'pageautoindex'
-summary = ''
+summary = 'The Union tries to be as transparent as possible. On this page you can find most information about our organisation and our values. This page is a work in progress and we are updating it constantly. Have a question or is there information missing? Mail us at: ants@hkustudentunion.com'
 categories = ['']
 tags = ['']
 +++
-The Union tries to be as transparent as possible. On this page you can find most information about our organisation and our values. This page is a work in progress and we are updating it constantly.
-Have a question or is there information missing? Mail us at: ants@hkustudentunion.com
+
 
 #### Mission and Purpose
 *Do Something about institutional racism  
@@ -75,7 +74,7 @@ We then try to create a movement, to make sure the people that the message is fo
 
 If the Union sees no other way but to escalate, we can organise demonstrations or strikes. These go by strict rules, and will always be non-violent. We look back with pride to what our comrades already accomplished with peaceful movements, and follow their example.
 
-#### Action Concencus
+#### Action Consensus
 Please (re)read this action consensus carefully, it is the Union's binding framework for every action. Because of it, we can ensure that our actions are transparent and that the expectations are clear for the people involved, but also for people on the outside. The Union is not responsible for the individuals who do not follow our action consensus, putting themselves, their fellow participants, but also the power of the whole movement at risk.
 Anyone who agrees to follow this consensus is welcome to join any one of our actions.
 
