@@ -1,7 +1,7 @@
 +++
 date = '2025-05-29T23:52:10+02:00'
 draft = false
-title = 'Meeting Notes 29 May'
+title = 'Meeting Notes May 29 2025'
 layout = 'meetingnotes'
 summary = 'About the workshop policy and a follow-up email to the CvB, planning an action for the workshops, discussed next school year and how to introduce the new first years to the Union,'
 

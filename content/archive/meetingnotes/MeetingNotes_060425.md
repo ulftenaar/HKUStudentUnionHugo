@@ -1,7 +1,7 @@
 +++
 date = '2025-06-06T10:21:54+02:00'
 draft = false
-title = 'MeetingNotes_060425'
+title = 'Meeting Notes June 5 2025'
 summary = 'About the action to hand over our bundle of thoughts to the CvB and moving it to the 17th, a new edition of the newsletter and an ant end party at the end of the school year. '
 categories = ['']
 tags = ['Workshops']
