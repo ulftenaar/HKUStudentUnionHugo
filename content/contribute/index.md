@@ -30,7 +30,7 @@ Better yet: fork our github repo and do it yourself! but this requires more know
 
 ### ### How can I write MD? 
 
-Couple of options, in most editors like word it is not an option to export it to MD. you can do it via a browser, websites like (stack edit)[https://stackedit.io/], let you do it for free. and is probably the easiest option. Also open source, but with google integration. [mark](https://mark.barelyhuman.dev/) also works, but doesn't save your files in the browser. BUT NO GOOGLE
+Couple of options, in most editors like word it is not an option to export it to MD. you can do it via a browser, websites like [stack-edit](https://stackedit.io/), let you do it for free. and is probably the easiest option. Also open source, but with google integration. [mark](https://mark.barelyhuman.dev/) also works, but doesn't save your files in the browser. BUT NO GOOGLE
 
 ### ### Conclusion, this is sick right. 
 
