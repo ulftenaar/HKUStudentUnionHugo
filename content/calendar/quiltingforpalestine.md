@@ -1,5 +1,5 @@
 +++
-date = '2025-06-05T15:28:44+02:00'
+date = '2024-06-13T15:28:44+02:00'
 draft = false
 title = 'Quiltingforpalestine'
 summary = 'June 13, Nieuwekade 10:00-17:00, Quilting for Palestine'

@@ -1,7 +1,7 @@
 +++
 date = '2025-06-05T15:37:26+02:00'
 draft = false
-title = 'Workshops13june'
+title = 'Workshop Session 17 june'
 summary = 'June 17, Nieuwekade, 16:00 - 18:00, Workshop Session'
 categories = ['']
 tags = ['CvB', 'workshops']

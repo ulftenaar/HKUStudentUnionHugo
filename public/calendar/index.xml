@@ -6,10 +6,17 @@
     <description>Recent content in Calendar on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 15:37:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 11:29:32 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Workshops13june</title>
+      <title>Actiontraining9june</title>
+      <link>http://localhost:1313/calendar/actiontraining9june/</link>
+      <pubDate>Fri, 06 Jun 2025 11:29:32 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/actiontraining9june/</guid>
+      <description>June 9, PLUK Utrecht, 19:00, HKU4Palestine Action Training</description>
+    </item>
+    <item>
+      <title>Workshop Session 17 june</title>
       <link>http://localhost:1313/calendar/workshops13june/</link>
       <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
       <guid>http://localhost:1313/calendar/workshops13june/</guid>
@@ -18,7 +25,7 @@
     <item>
       <title>Quiltingforpalestine</title>
       <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
-      <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
+      <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
       <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
       <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>

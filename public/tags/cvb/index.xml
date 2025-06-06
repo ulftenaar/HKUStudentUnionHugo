@@ -9,18 +9,11 @@
     <lastBuildDate>Thu, 05 Jun 2025 15:37:26 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cvb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Workshops13june</title>
+      <title>Workshop Session 17 june</title>
       <link>http://localhost:1313/calendar/workshops13june/</link>
       <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
       <guid>http://localhost:1313/calendar/workshops13june/</guid>
       <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
-    </item>
-    <item>
-      <title>Quiltingforpalestine</title>
-      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
-      <pubDate>Thu, 05 Jun 2025 15:28:44 +0200</pubDate>
-      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
-      <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
     <item>
       <title>Workshops Emails with CvB</title>
@@ -28,6 +21,13 @@
       <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
       <guid>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</guid>
       <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
+    </item>
+    <item>
+      <title>Quiltingforpalestine</title>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
+      <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
+      <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>
 </rss>
