@@ -5,6 +5,10 @@ title = 'Actiontraining9june'
 summary = 'June 9, PLUK Utrecht, 19:00, HKU4Palestine Action Training'
 categories = ['']
 tags = ['Hku4palestine']
+days = '9'
+months = 'June'
+years = '2025'
+calendarDate = '2025-06-09'
 +++
 {{< figure src="/img/actiontraining9june25.jpeg" width="300px" class="calpic">}}
 As the genocide in Palestine is escalating to a new stage, it is our duty to stop our compliance and escalate for Palestine! 

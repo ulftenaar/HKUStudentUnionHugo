@@ -6,8 +6,29 @@
     <description>Recent content on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jun 2025 11:29:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 15:59:21 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The intersection of institutional racism and the Board’s neutrality in times of genocide</title>
+      <link>http://localhost:1313/articles/institutionalracismpalestine/</link>
+      <pubDate>Mon, 09 Jun 2025 15:59:21 +0200</pubDate>
+      <guid>http://localhost:1313/articles/institutionalracismpalestine/</guid>
+      <description>&lt;p&gt;Since the founding of the HKU student union there have been several issues that have occupied our attention. These subjects are however not disconnected or separate. There are overarching, fundamental problems with the way our school is run that can be ascribed to the decision-making process of the Board (CvB). Some examples of this are the general lack of transparency around the board’s decision-making, and the absence of meaningful consultation with students and teachers that make up our HKU community. The latter issue contains within it a more damning problem: HKU-policy is written and executed from an overwhelmingly white perspective.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Update about removal of alumni workshop policy (long version)</title>
+      <link>http://localhost:1313/archive/log/updateworkshopslong/</link>
+      <pubDate>Mon, 09 Jun 2025 15:19:48 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/updateworkshopslong/</guid>
+      <description>Update about our work about the removal of the alumni workshop policy, with translated emails to english</description>
+    </item>
+    <item>
+      <title>Update about removal of alumni workshop policy (short version)</title>
+      <link>http://localhost:1313/archive/log/updateworkshopsshort/</link>
+      <pubDate>Mon, 09 Jun 2025 15:19:40 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/updateworkshopsshort/</guid>
+      <description>Short Summary of our email correspondence with the CvB and our petition</description>
+    </item>
     <item>
       <title>Actiontraining9june</title>
       <link>http://localhost:1313/calendar/actiontraining9june/</link>
@@ -62,7 +83,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 04 Jun 2025 21:32:36 +0200</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;h3 id=&#34;got-a-question&#34;&gt;Got a Question?&lt;/h3&gt;&#xA;&lt;p&gt;Or do you want to say something to the union? Awesome!&#xA;You can reach us for almost anything: ideas, workshops, potlucks, new art to showcase, demomstrations, you name it! You can reach us at &lt;a href=&#34;mailto:ants@hkustudentunion.com&#34;&gt;ants@hkustudentunion.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;&#xA;&lt;p&gt;Share these with a friend! &lt;em&gt;or click them yourself&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Our friends from &lt;a href=&#34;https://vidius.nl&#34;&gt;Vidius&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Our &lt;a href=&#34;https://chat.whatsapp.com/I45YaiRfLC8D54DcvKrVj5&#34;&gt;Whatsapp&lt;/a&gt; group&lt;/li&gt;&#xA;&lt;li&gt;The HKU for Palestine &lt;a href=&#34;https://www.instagram.com/hku.4.palestine/&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hku.One &lt;a href=&#34;https://www.instagram.com/hku.one/&#34;&gt;Instagram&lt;/a&gt; and &lt;a href=&#34;https://hku.one/&#34;&gt;website&lt;/a&gt; striving to create one central platform for HKU students&lt;/li&gt;&#xA;&lt;li&gt;our besties from the &lt;a href=&#34;https://www.hku.nl/en/about-hku/organisation/executive-board&#34;&gt;CvB&lt;/a&gt; #onelove&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;got-a-question&#34;&gt;Got a Question?&lt;/h3&gt;&#xA;&lt;p&gt;Or do you want to say something to the union? Awesome!&#xA;You can reach us for almost anything: ideas, workshops, potlucks, new art to showcase, demomstrations, you name it! You can reach us at &lt;a href=&#34;mailto:ants@hkustudentunion.com&#34;&gt;ants@hkustudentunion.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;representatives&#34;&gt;Representatives&lt;/h4&gt;&#xA;&lt;p&gt;To make the Union a bit more approachable, we strive for every location to have a representative, that you can ask questions to when you see them. The representatives do not have more say in the Union over the rest of the members, we are still a flat organisation. If you feel like becoming a point of contact for the people in your building, send us an email! we still need people in Janskerkhof, Nieuwekade, Jaarbeurs and Loods!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sit-In &amp; Potluck for Palestine</title>
@@ -70,13 +91,6 @@
       <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
       <guid>http://localhost:1313/archive/events/26maypotluck/</guid>
       <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
-    </item>
-    <item>
-      <title>Workshop Petition</title>
-      <link>http://localhost:1313/archive/log/other/workshoppetition/</link>
-      <pubDate>Mon, 02 Jun 2025 17:48:33 +0200</pubDate>
-      <guid>http://localhost:1313/archive/log/other/workshoppetition/</guid>
-      <description>A Summary of the Petition the Union started on the Workshops in April 2025</description>
     </item>
     <item>
       <title>Meeting Notes May 29 2025</title>
@@ -98,13 +112,6 @@
       <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
       <guid>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</guid>
       <description>The first newsletter of the Union, about the workshops, our structure, platforms and two events.</description>
-    </item>
-    <item>
-      <title>Workshops Emails with CvB</title>
-      <link>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</link>
-      <pubDate>Thu, 29 May 2025 13:03:12 +0200</pubDate>
-      <guid>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</guid>
-      <description>Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months</description>
     </item>
     <item>
       <title>HKU complicity in the ongoing genocide</title>
@@ -132,7 +139,7 @@
       <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
       <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
       <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
-      <description>June 13, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
+      <description>June 12, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>
 </rss>

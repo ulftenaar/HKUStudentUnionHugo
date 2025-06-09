@@ -2,26 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/instituional-racism/</loc>
+    <lastmod>2025-06-09T15:59:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/palestine/</loc>
+    <lastmod>2025-06-09T15:59:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-09T15:59:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/institutionalracismpalestine/</loc>
+    <lastmod>2025-06-09T15:59:21+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-09T15:19:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cvb/</loc>
+    <lastmod>2025-06-09T15:19:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/emails/</loc>
+    <lastmod>2025-06-09T15:19:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/log/updateworkshopslong/</loc>
+    <lastmod>2025-06-09T15:19:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workshops/</loc>
+    <lastmod>2025-06-09T15:19:48+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/log/updateworkshopsshort/</loc>
+    <lastmod>2025-06-09T15:19:40+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/calendar/actiontraining9june/</loc>
     <lastmod>2025-06-06T11:29:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/hku4palestine/</loc>
     <lastmod>2025-06-06T11:29:32+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-06T11:29:32+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</loc>
-    <lastmod>2025-06-06T10:21:54+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/workshops/</loc>
     <lastmod>2025-06-06T10:21:54+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/contribute/</loc>
     <lastmod>2025-06-05T15:51:44+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cvb/</loc>
-    <lastmod>2025-06-05T15:37:26+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/calendar/workshops13june/</loc>
     <lastmod>2025-06-05T15:37:26+02:00</lastmod>
@@ -50,14 +71,8 @@
     <loc>http://localhost:1313/calendar/</loc>
     <lastmod>2025-06-03T17:09:27+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/palestine/</loc>
-    <lastmod>2025-06-03T15:17:16+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/archive/events/26maypotluck/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archive/log/other/workshoppetition/</loc>
-    <lastmod>2025-06-02T17:48:33+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/log/</loc>
     <lastmod>2025-05-31T13:03:54+02:00</lastmod>
@@ -76,15 +91,6 @@
   </url><url>
     <loc>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</loc>
     <lastmod>2025-05-29T23:45:49+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-05-29T13:03:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/emails/</loc>
-    <lastmod>2025-05-29T13:03:12+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archive/log/emaillog/cvb_email_workshops_052925/</loc>
-    <lastmod>2025-05-29T13:03:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</loc>
     <lastmod>2025-04-13T11:46:48+02:00</lastmod>

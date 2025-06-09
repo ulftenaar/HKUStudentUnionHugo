@@ -1,6 +1,6 @@
 +++
 date = '2025-06-02T17:48:33+02:00'
-draft = false
+draft = true
 title = 'Workshop Petition'
 summary = 'A Summary of the Petition the Union started on the Workshops in April 2025'
 tags = ['Workshops']

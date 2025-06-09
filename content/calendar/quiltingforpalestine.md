@@ -2,9 +2,13 @@
 date = '2024-06-13T15:28:44+02:00'
 draft = false
 title = 'Quiltingforpalestine'
-summary = 'June 13, Nieuwekade 10:00-17:00, Quilting for Palestine'
+summary = 'June 12, Nieuwekade 10:00-17:00, Quilting for Palestine'
 categories = ['']
 tags = ['palestine', 'cvb']
+days = '12'
+months = 'June'
+years = '2025'
+calendarDate ='2025-06-12'
 +++
 {{< figure src="quilting4palestine.jpeg" width="300px" class="calpic">}}
 News from HKU4Palestine, a sister organisation of the Union:

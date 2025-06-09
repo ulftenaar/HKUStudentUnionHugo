@@ -1,6 +1,6 @@
 +++
 date = '2025-05-29T13:03:12+02:00'
-draft = false
+draft = true
 title = 'Workshops Emails with CvB'
 summary = 'Report on email correspondence about the Workshop policy the union has had with the CvB in the last two months'
 categories = ['emails']

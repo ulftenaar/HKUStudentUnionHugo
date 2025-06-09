@@ -10,7 +10,11 @@
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }} {{
 $dateHuman := .Date | time.Format ":date_long" }}
       <h7><em>
-      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></em></h7>
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      {{ with .Params.authors }} 
+      , author(s): {{ delimit . "," }}
+      {{ end }}
+    </em></h7>
     {{ .Content }}
     <hr>
   {{ end }}
@@ -31,8 +35,9 @@ $dateHuman := .Date | time.Format ":date_long" }}
       <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
     {{ end }}
   </ol>
+ <img src="/img/mierboek2.png" alt="Ant holding book" width="200px">
 
-
+ 
   </div>
 </div>
 

@@ -4,6 +4,7 @@ title = 'HKU Student Union'
 theme = 'HSU_HugoTheme'
 sectionPagesMenu = "mainmenu"
 favicon = "/favicon.io"
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'

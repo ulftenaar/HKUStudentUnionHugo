@@ -96,7 +96,9 @@ ol {
 }
 .calpic {
   float: right;
-  background-color: black;
+}
+figcaption {
+  text-align: center;
 }
 #breadcrumbs {
   position:absolute;
@@ -161,8 +163,8 @@ margin: 0 auto;
 flex:1;
 padding: 0 0 0 1rem;
 min-width: min(200px, 30vw);
-
-/* position:sticky; */
+top: 35vh;
+position:sticky;
 align-self: flex-end;
 top: 20vh;
 }

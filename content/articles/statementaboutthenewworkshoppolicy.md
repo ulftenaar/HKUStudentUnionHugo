@@ -16,3 +16,5 @@ The student union does not agree with the cancellation of this arrangement. It i
 As a student union, we are open to your ideas. Do you have something you want to change, something big, or something small? Let us know!
 
 One of the things we are currently working on is the removal of the alumni working at the workshops, but your proposal may encompass any aspect of your time at the HKU.
+
+*We've been very busy working on this over the past months, read the full update [here](/archive/log).*

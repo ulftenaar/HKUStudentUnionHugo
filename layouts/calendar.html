@@ -1,11 +1,16 @@
 {{ define "main" }}
+{{ $grouped := dict }}
+
+
+
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 <hr>
 <div class="page">
   <div class="main">
 
-{{ range .Pages }}
+{{ range sort .Pages "Params.calendarDate" }}
+
 <section>
 <details><summary>{{ .Summary }}</summary>{{ .Content }}</details></section> 
 
