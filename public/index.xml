@@ -6,8 +6,15 @@
     <description>Recent content on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jun 2025 15:59:21 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 11:48:50 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26maysitin</title>
+      <link>http://localhost:1313/calendar/26maysitin/</link>
+      <pubDate>Tue, 10 Jun 2025 11:48:50 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/26maysitin/</guid>
+      <description>26 May 2025, Sit-in &amp;amp; demo for Palestine &amp;amp; Potluck, Oudenoord, 12:00-18:00</description>
+    </item>
     <item>
       <title>The intersection of institutional racism and the Board’s neutrality in times of genocide</title>
       <link>http://localhost:1313/articles/institutionalracismpalestine/</link>
@@ -76,7 +83,7 @@
       <link>http://localhost:1313/sidehome/</link>
       <pubDate>Wed, 04 Jun 2025 21:53:46 +0200</pubDate>
       <guid>http://localhost:1313/sidehome/</guid>
-      <description>&lt;h4 id=&#34;general-student-union-meeting&#34;&gt;General Student Union meeting&lt;/h4&gt;&#xA;&lt;p&gt;Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be joined online&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;quilting-action-hku4palestine&#34;&gt;Quilting Action HKU4Palestine&lt;/h4&gt;&#xA;&lt;p&gt;On June 12th HKU4Palestine is organising a quilting action in front of Nieuwekade, read more here&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;new-website&#34;&gt;New website&lt;/h4&gt;&#xA;&lt;p&gt;Check it out! have fun exploring. Don&amp;rsquo;t forget to check our new archives website in the top right.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;new-articles&#34;&gt;New articles&lt;/h4&gt;&#xA;&lt;p&gt;There are two new articles posted on our articles page. One about institutional racism and one on desicionmaking in the HKU.&lt;/p&gt;</description>
+      <description>&lt;h4 id=&#34;general-student-union-meeting&#34;&gt;General Student Union meeting&lt;/h4&gt;&#xA;&lt;p&gt;Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be joined online&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;quilting-action-hku4palestine&#34;&gt;Quilting Action HKU4Palestine&lt;/h4&gt;&#xA;&lt;p&gt;On June 12th HKU4Palestine is organising a quilting action in front of Nieuwekade, read more &lt;a href=&#34;http://localhost:1313/calendar/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;workshop-update&#34;&gt;Workshop Update&lt;/h4&gt;&#xA;&lt;p&gt;We posted an update on our activity with the workshops. Read it &lt;a href=&#34;http://localhost:1313/archive/log/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;new-website&#34;&gt;New website&lt;/h4&gt;&#xA;&lt;p&gt;Check it out! have fun exploring. Don&amp;rsquo;t forget to check our new archives website in the top right.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
@@ -112,6 +119,13 @@
       <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
       <guid>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</guid>
       <description>The first newsletter of the Union, about the workshops, our structure, platforms and two events.</description>
+    </item>
+    <item>
+      <title>June 25, Malieveld Den Haag 12:00, XR Navo demonstration</title>
+      <link>http://localhost:1313/calendar/25june25xrnavo/</link>
+      <pubDate>Wed, 14 May 2025 11:25:38 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/25june25xrnavo/</guid>
+      <description>June 25, Malieveld Den Haag 12:00, XR Navo demonstration</description>
     </item>
     <item>
       <title>HKU complicity in the ongoing genocide</title>

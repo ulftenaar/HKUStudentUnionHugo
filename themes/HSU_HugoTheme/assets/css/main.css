@@ -168,7 +168,14 @@ position:sticky;
 align-self: flex-end;
 top: 20vh;
 }
+@media only screen and (width <= 892px) {
+.side{
+    position:static;
+    top: 0;
+    align-self: normal;
 
+  } 
+}
 hr {
 border: 1px solid black;
     margin-left: 20px;

@@ -1,30 +1,36 @@
 {{ define "main" }}
-{{ $grouped := dict }}
-
-
-
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 <hr>
 <div class="page">
   <div class="main">
+    {{ range sort (where .Pages "Params.calendarDate" ">=" (now.Format "2006-01-02"))  "Params.calendarDate" }}
+    
+      <section>
+        <details><summary>{{ .Summary }}</summary>{{ .Content }}</details>
+      </section>
+    {{ else }}
+      <p>No upcoming events.</p>
+    {{ end }}
+<hr>
+    <h3>Past Events</h3>
+    {{ range sort (where .Pages "Params.calendarDate" "<" (now.Format "2006-01-02")) "Params.calendarDate" "desc" }}
+      <section>
+        <details><summary>{{ .Summary }}</summary>{{ .Content }}</details>
+      </section>
+    {{ else }}
+      <p>No past events.</p>
+    {{ end }}
 
-{{ range sort .Pages "Params.calendarDate" }}
-
-<section>
-<details><summary>{{ .Summary }}</summary>{{ .Content }}</details></section> 
-
-{{ end }}
   </div>
   <div class="side">
-{{ partial "terms.html" (dict "taxonomy"
-"tags" "page" .) }}
-  <h3>Tags</h3>
-  <ol>
-    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-      <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
-    {{ end }}
-  </ol>
+    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    <h3>Tags</h3>
+    <ol>
+      {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li>
+      {{ end }}
+    </ol>
   </div>
-
+</div>
 {{ end }}

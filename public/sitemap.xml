@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/calendar/26maysitin/</loc>
+    <lastmod>2025-06-10T11:48:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hku4palestine/</loc>
+    <lastmod>2025-06-10T11:48:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-10T11:48:50+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/instituional-racism/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/palestine/</loc>
-    <lastmod>2025-06-09T15:59:21+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/institutionalracismpalestine/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2025-06-09T15:19:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/calendar/actiontraining9june/</loc>
-    <lastmod>2025-06-06T11:29:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hku4palestine/</loc>
     <lastmod>2025-06-06T11:29:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</loc>
@@ -91,6 +94,12 @@
   </url><url>
     <loc>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</loc>
     <lastmod>2025-05-29T23:45:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/demiltairisation/</loc>
+    <lastmod>2025-05-14T11:25:38+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/calendar/25june25xrnavo/</loc>
+    <lastmod>2025-05-14T11:25:38+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</loc>
     <lastmod>2025-04-13T11:46:48+02:00</lastmod>
