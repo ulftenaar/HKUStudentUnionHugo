@@ -7,5 +7,5 @@ categories = ['']
 calendarDate= '2025-09-01'
 tags = ['Demiltairisation']
 +++
-
+{{< figure src="/img/calendar/XRnavo25juni.jpeg" width="300px" class="calpic">}}
 XR is organising a demo during the big NAVO summit. they will block the A12 in Den Haag like the good old days. Join the Felgroen affinity group here.

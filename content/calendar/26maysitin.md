@@ -7,6 +7,7 @@ categories = ['']
 tags = ['HKU4Palestine']
 calendarDate = '2025-05-26'
 +++
+{{< figure src="/img/calendar/sitin26mei.jpg" width="300px" class="calpic">}}
 Coming Monday the 26th of May, HKU4Palestine will organise a sit-in in the Atrium of Oudenoord. We do this to urge the CVB (College Van Bestuur) to finally meet our demands, listed below. Despite our numerous attempts to convince the CVB of the importance of these demands, after more than a year, the CVB has been incapable of meeting these demands and breaking ties with Israel. Therefore, we will inform the CVB that our demands have not changed.
 
 Please join our sit-in, attend our workshops and join forces. HKU students and staff, let’s finally mobilize!
