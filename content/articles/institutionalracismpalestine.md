@@ -4,7 +4,7 @@ draft = false
 title = 'The intersection of institutional racism and the Board’s neutrality in times of genocide'
 summary = ''
 categories = ['']
-tags = ['Palestine', 'instituional racism']
+tags = ['Palestine', 'Institutional Racism']
 authors = ['Kris']
 +++
 

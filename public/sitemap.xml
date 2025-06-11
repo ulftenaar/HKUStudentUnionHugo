@@ -11,7 +11,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-10T11:48:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/instituional-racism/</loc>
+    <loc>http://localhost:1313/tags/institutional-racism/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/palestine/</loc>
@@ -106,9 +106,6 @@
   </url><url>
     <loc>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</loc>
     <lastmod>2025-04-11T11:50:52+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/institutional-racism/</loc>
-    <lastmod>2025-04-05T11:57:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/institutionalracisminhku/</loc>
     <lastmod>2025-04-05T11:57:09+02:00</lastmod>
