@@ -191,6 +191,28 @@ We hope to receive an open door, and we want to emphasize our willingness to dis
 Yours sincerely,  
 The HKU student union
 
+##### Message 5, CvB to SU 
+On 10 June we recieved another email from the CvB. They anounced that we are welcome to host our session on Nieuwekade. The CvB is willing to recieve a delegation of the Union to hand over the book and to go in conversation with the CvB and the Director of the Workshops. We are glad to hear that the CvB will be present to recieve us. However, we find it dissapointing that again, the CvB is only willing to go into conversation with representatives, instead of our entire group. We sent another email that we are willing to join the meeting, but we also urge them to go into conversation with the whole group.
+
+Read the full email here, only in dutch currently: 
+
+>Beste leden van de HKU Studentenvakbond,
+> 
+>We hebben jullie mail over de werkplaatsregeling ontvangen. Jullie zijn welkom op de Nieuwekade. Het CvB maakt plaats in haar agenda om het boekje in ontvangst te kunnen nemen op 17 juni. Zoals eerder geschreven begrijpen we dat het bericht over het vervallen van de regeling gebruik werkplaatsen door alumni als ingrijpend wordt ervaren en dat er zorgen over zijn. 
+> 
+>Judith Meijer (College van Bestuur) en Joris Renskers (directeur HKU Werkplaatsen) zijn bereid tot een gesprek met uitleg over de werkplaatsregeling met een vertegenwoordiging van drie studenten van de studentenvakbond. Willen jullie vooraf laten weten wie aan dit gesprek deelnemen? Dan plannen we een gesprek in. 
+> 
+>We vermelden hierbij dat studenten en medewerkers op HKU vertegenwoordigd zijn in de Centrale MedezeggenschapRaad (CMR). Hier vindt het gesprek en de medezeggenschap plaats over het beleid van HKU. Bij signalen, zorgen of vragen adviseren we vooral ook om contact op te nemen met de (leden van de) CMR: https://studentportal.hku.nl/over-hku/medezeggenschap/centrale-medezeggenschapsraad/ 
+> 
+>We vernemen graag nog in welke ruimte op Nieuwekade de sessie plaatsvindt. Daarnaast willen we jullie erop attenderen dat de voordeur van het gebouw op Nieuwekade vanaf 17:00 uur sluit en het gehele gebouw om 18:00 uur. Het boekje nemen we daarom graag eerder in ontvangst, rond 17:00 uur. Willen jullie de sessie hiervoor inkorten of eerder starten, zodat de gebouwbeheerders op tijd naar huis kunnen?  
+> 
+>Hartelijke groet,
+> 
+>Heleen Jumelet 
+>Judith Meijer 
+ 
+
+
 
 
 
