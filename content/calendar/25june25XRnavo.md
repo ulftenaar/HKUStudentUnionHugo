@@ -7,5 +7,6 @@ categories = ['']
 calendarDate= '2025-09-01'
 tags = ['Demiltairisation']
 +++
+
 {{< figure src="/img/calendar/XRnavo25juni.jpeg" width="300px" class="calpic">}}
-XR is organising a demo during the big NAVO summit. they will block the A12 in Den Haag like the good old days. There will probably be a HKU finger, but it hasn't been formed, we will keep you up to date. 
+XR is organising a demo during the big NAVO summit. they will block the A12 in Den Haag like the good old days. There will probably be a HKU finger, but it hasn't been formed, we will keep you up to date if ewe have more info.
