@@ -4,11 +4,13 @@
 <hr>
   {{ range .Pages }}
     <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-{{ .Summary }} <br>
 {{ with .Params.tags }}
     Tags: {{ delimit . ", " }}
-  {{ end }}
-  {{ end }}
+,{{ end }}
+Last Update: {{ .Lastmod | time.Format ":date_medium" }}
+<br>
+{{ .Summary }} 
+{{ end }}
 <!-- <div class="taxonomy-summary"> -->
 <!--   <h3><a href="{{  "/catogeries/" | relURL }}">Categories</a></h3> -->
 <!--   <ul> -->
