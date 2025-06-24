@@ -94,12 +94,15 @@ details:open > summary {
 ol {
   list-style: lower-roman;
 }
+
 .calpic {
   float: right;
 }
+
 figcaption {
   text-align: center;
 }
+
 #breadcrumbs {
   position:absolute;
   right: 5rem;
@@ -129,6 +132,7 @@ h4 {
   font-size: 1.17em; 
     margin-bottom: 0.2rem;
 }
+
 h5 {
   font-size: 1em;
   margin-bottom: 0.2rem;
@@ -163,19 +167,24 @@ margin: 0 auto;
 flex:1;
 padding: 0 0 0 1rem;
 min-width: min(200px, 30vw);
-top: 35vh;
 position:sticky;
 align-self: flex-end;
 top: 20vh;
 }
+
 @media only screen and (width <= 892px) {
 .side{
     position:static;
     top: 0;
     align-self: normal;
 
-  } 
+  }
+
+  .side img {
+    display: none;
+  }
 }
+
 hr {
 border: 1px solid black;
     margin-left: 20px;

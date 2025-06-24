@@ -4,10 +4,34 @@
 {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }} {{
 $dateHuman := .Date | time.Format ":date_long" }}
 <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+ {{ $content := .Content }}
+    {{ $re := `(?s)<h(?:3|5)[^>]*id="([^"]+)"[^>]*>(.*?)</h(?:3|5)>` }}
+    {{ $matches := findRESubmatch $re $content }}
 
+    {{ if $matches }}
+
+<div class="page">
+  <div class="main">{{ .Content }}
+</div>
+  <div class="side">    
+      <h3>Index</h3>
+      <ol>
+        {{ range $matches }}
+          {{ $id := index . 1 }}
+          {{ $rawText := index . 2 }}
+          {{ $text := $rawText | plainify | htmlUnescape }}
+          <li><a href="#{{ $id }}">{{ $text }}</a></li>
+        {{ end }}
+      </ol>
+    <img src="/img/mierjamkleur.png" alt="Mier jam" width="200px">
+    </div>
+</div>
+{{ else }}
 {{ .Content }}
+
+{{ end }}
 <hr />
 
 
-{{ partial "terms.html" (dict "taxonomy"
-"tags" "page" .) }} {{ end }}
+{{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }} 
+{{ end }}
