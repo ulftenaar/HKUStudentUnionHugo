@@ -2,29 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/archive/log/250624conversationcvb/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/conversations/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cvb/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hku-info/</loc>
-    <lastmod>2025-06-19T14:21:23+02:00</lastmod>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workshops/</loc>
+    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/log/interviewalumnus/</loc>
+    <lastmod>2025-06-22T18:34:47+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/interviews/</loc>
+    <lastmod>2025-06-22T18:34:47+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/community/</loc>
+    <lastmod>2025-06-22T18:27:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/calendar/antoftheyearparty/</loc>
+    <lastmod>2025-06-22T18:27:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/log/250619cmrmeeting/</loc>
+    <lastmod>2025-06-20T10:37:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cmr/</loc>
+    <lastmod>2025-06-20T10:37:06+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/events/250617bookhandonver/</loc>
+    <lastmod>2025-06-20T10:18:11+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/enmedezeggenschap/</loc>
     <lastmod>2025-06-19T14:21:23+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-19T14:21:23+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/workshops/</loc>
-    <lastmod>2025-06-17T16:36:11+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/events/workshopsession061725/</loc>
     <lastmod>2025-06-17T16:36:11+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/meetingnotes/061425cvbmeetingnotes/</loc>
     <lastmod>2025-06-14T19:56:30+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-11T15:36:43+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cvb/</loc>
-    <lastmod>2025-06-11T15:36:43+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/emails/</loc>
     <lastmod>2025-06-11T15:36:43+02:00</lastmod>

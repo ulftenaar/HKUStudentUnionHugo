@@ -6,8 +6,22 @@
     <description>Recent content in HKU-Info on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 14:21:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 14:00:34 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hku-info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>250624conversationCvB</title>
+      <link>http://localhost:1313/archive/log/250624conversationcvb/</link>
+      <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/250624conversationcvb/</guid>
+      <description>The Union had a planned conversation with the CvB about the Union</description>
+    </item>
+    <item>
+      <title>Attended CMR meeting June 19</title>
+      <link>http://localhost:1313/archive/log/250619cmrmeeting/</link>
+      <pubDate>Fri, 20 Jun 2025 10:37:06 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/250619cmrmeeting/</guid>
+      <description>The Union joined the CMR meeting as a visitor for the first time, find the full report here</description>
+    </item>
     <item>
       <title>Representation within the HKU</title>
       <link>http://localhost:1313/articles/enmedezeggenschap/</link>

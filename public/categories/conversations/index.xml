@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conversations on HKU Student Union</title>
+    <link>http://localhost:1313/categories/conversations/</link>
+    <description>Recent content in Conversations on HKU Student Union</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Jun 2025 14:00:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/conversations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>250624conversationCvB</title>
+      <link>http://localhost:1313/archive/log/250624conversationcvb/</link>
+      <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
+      <guid>http://localhost:1313/archive/log/250624conversationcvb/</guid>
+      <description>The Union had a planned conversation with the CvB about the Union</description>
+    </item>
+  </channel>
+</rss>

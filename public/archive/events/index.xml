@@ -6,8 +6,15 @@
     <description>Recent content in Events on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Jun 2025 16:36:11 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 10:18:11 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/archive/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book of Worries session</title>
+      <link>http://localhost:1313/archive/events/250617bookhandonver/</link>
+      <pubDate>Fri, 20 Jun 2025 10:18:11 +0200</pubDate>
+      <guid>http://localhost:1313/archive/events/250617bookhandonver/</guid>
+      <description>A summary of the Session the Union hosted in Nieuwekade on June 17th, where they handed over the Book of Worries, written by the students</description>
+    </item>
     <item>
       <title>Workshops Session 17 June</title>
       <link>http://localhost:1313/archive/events/workshopsession061725/</link>

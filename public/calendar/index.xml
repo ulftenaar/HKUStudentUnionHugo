@@ -6,8 +6,15 @@
     <description>Recent content in Calendar on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 11:48:50 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 18:27:37 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>June 26, Paardenveld 18:00, Ant of the Year Party</title>
+      <link>http://localhost:1313/calendar/antoftheyearparty/</link>
+      <pubDate>Sun, 22 Jun 2025 18:27:37 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/antoftheyearparty/</guid>
+      <description>June 26, Paardenveld 18:00, Ant of the Year Party</description>
+    </item>
     <item>
       <title>26maysitin</title>
       <link>http://localhost:1313/calendar/26maysitin/</link>
