@@ -4,7 +4,7 @@
   --hkuyellow: #C79F00;
   --hkugeel: #ffffed;
   --f_main: font_maintext;
-  --f_title: font_title;
+  --f_title: georgia;
 }
 
 html {
@@ -210,12 +210,12 @@ font-weight: bold;
 
 @font-face {
 font-family: "Font_Title";
-src: url("/font/NewKansasMedium.otf");
+src: url("/font/0xProto/0xProtoNerdFontPropo-Regular.ttf");
 
 }
 
 @font-face {
 font-family: "Font_Title";
-src: url("/font/NewKansasSemiBold.otf");
+src: url("/font/0xProto/0xProtoNerdFontPropo-Bold.ttf");
 font-weight:bold;
 }
