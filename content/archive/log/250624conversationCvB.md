@@ -12,7 +12,7 @@ After about two months of email correspondence we were invited to a meeting with
 The attendees of the meeting were Pier, Tom, Rozemond and Robin for the Union. The HKU was represented by Judith, and Heleen of the CvB, Esther (spokesperson of the CvB), and Joris (director of the workshops).  
 We agreed to talk about the Union in the first half hour and then talk about the Workshops for the remaining time. Heleen had to leave after the first half hour, and then Joris took her place.
 
-We were unfortunately not allowed to record the meeting, so this post is based on our own notes, and the notes we recieved from Esther. The whole meeting had to be done in an hour, so there were a lot of things left, nonetheless we got a lot of new information.
+We were unfortunately not allowed to record the meeting, so this post is based on our own notes. Esther was making Notes of the meeting, and we asked if they could be sent to us, they agreed. But we never recieved these. The whole meeting had to be done in an hour, so there were a lot of things left, nonetheless we got a lot of new information.
 We will start with giving a summary of the workshops and then about the Union. In this post we will try to describe the information of the meeting as factual as possible.
 
 ### Workshops
@@ -35,7 +35,7 @@ The message that the workshop policy would be abolished was only posted on the s
 
 ##### Apology
 
-At the end of the CvB, we said it would be right to send a formal apology as the board of the HKU about how this change was communicated. A lot of Students lost their trust in the board, and by being honest they might be able to restore some of it. We also found that we think the HKU did not handle the situation correctly before announcing the abolishment of the rule. They were aware of the govermental policy that would not allow alumni to use the workshop, but did not communicate this to the students. Even if the board was not sure wether this rule would be enforced, they should have already started notifying the students of the possibility.
+At the end of the conversation, we said it would be right to send a formal apology as the board of the HKU about how this change was communicated. A lot of Students lost their trust in the board, and by being honest they might be able to restore some of it. We also found that we think the HKU did not handle the situation correctly before announcing the abolishment of the rule. They were aware of the govermental policy that would not allow alumni to use the workshop, but did not communicate this to the students. Even if the board was not sure wether this rule would be enforced, they should have already started notifying the students of the possibility.
 They should also take responsibility for the fact that this many students counted on the rule, and appearantly understood it wrongly. It is the boards responsibility that the students are well informed, or have the chance to do so. We said that it is not the students fault that they are 'abusing' the rule, if they are not aware of it.
 
 Judith responded that they would take it into consideration.
@@ -45,7 +45,7 @@ Judith responded that they would take it into consideration.
 This meeting was originally planned for the CvB to get to know the people behind the movement, and to talk about what the Union could mean within the HKU. They started with some questions about the organisation like:
 
 _How will you represent the voices of all the students and employees of the school?:  
-(Standpoint of Israel was explicity mentioned, they usedHKU4Palestine as an example of an organisation where not everyones opinion can be represented)_
+(Standpoint of Israel was explicity mentioned, they used HKU4Palestine as an example of an organisation where not everyones opinion can be represented)_
 
 The Union is nothing in itself, the goals and views of the Union are agreed upon by concensus of the attendees of the meetings. Individuals decide for themselves if they participate in an action or not. The Union gives sources of information, but we never force individuals to participate. If there is a group that feels unrepresented, they can themselves set up a group within the Union.
 
@@ -53,3 +53,9 @@ _What are some of the goals and aspirations of the Union?_
 
 One of our most important goals is that we strive for a more transparent HKU. The organisation of the HKU does not communitcate enough information with it's students and employees. Many feel left in the dark about what happens on the orgnaisational side of the school, with the workshop policy being a recent example.  
 Other examples of important points for the Union are institutional racism, the tie with the university of bezalel and the use of american Big Tech services.
+
+They mentioned that there being a Union organised by students was something new for the HKU and they still aren't sure how to deal with it.
+
+### Conclusion
+
+After the meeting we did a short debrief. Our heads were full of the newly rescieved information, and we were confused why the HKU didn't inform their students better. We were dissapointed that the CvB said a lot of words, without making any concessions.

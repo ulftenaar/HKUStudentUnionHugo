@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archive on HKU Student Union</title>
-    <link>http://localhost:1313/archive/</link>
+    <link>https://archive.hkustudentunion.nl/archive/</link>
     <description>Recent content in Archive on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2025 23:48:51 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/archive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FinanceReport_May2025</title>
-      <link>http://localhost:1313/archive/finances/financereport_may2025/</link>
+      <link>https://archive.hkustudentunion.nl/archive/finances/financereport_may2025/</link>
       <pubDate>Thu, 29 May 2025 23:48:51 +0200</pubDate>
-      <guid>http://localhost:1313/archive/finances/financereport_may2025/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/finances/financereport_may2025/</guid>
       <description>&lt;p&gt;In: 0&lt;br&gt;&#xA;Out: 2000million;&lt;/p&gt;</description>
     </item>
   </channel>
