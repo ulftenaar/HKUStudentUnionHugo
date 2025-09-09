@@ -13,11 +13,6 @@ Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be jo
 
 --- 
 
-#### Quilting Action HKU4Palestine
-On June 12th HKU4Palestine is organising a quilting action in front of Nieuwekade, read more [here](/calendar/)
-
----
-
 #### Workshop Update 
 We posted an update on our activity with the workshops. Read it [here](/archive/log/)
 
