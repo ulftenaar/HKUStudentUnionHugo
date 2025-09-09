@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/tags/workshops/</link>
+    <link>http://localhost:1313/tags/workshops/</link>
     <description>Recent content in Workshops on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jun 2025 14:00:34 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conversation with CvB June 24 2025</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</link>
+      <link>http://localhost:1313/archive/log/250624conversationcvb/</link>
       <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</guid>
+      <guid>http://localhost:1313/archive/log/250624conversationcvb/</guid>
       <description>The Union had a planned conversation with the CvB about the Union and the role within the HKU and also about the workshops.</description>
     </item>
     <item>
       <title>Book of Worries session</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</link>
+      <link>http://localhost:1313/archive/events/250617bookhandonver/</link>
       <pubDate>Fri, 20 Jun 2025 10:18:11 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</guid>
+      <guid>http://localhost:1313/archive/events/250617bookhandonver/</guid>
       <description>A summary of the Session the Union hosted in Nieuwekade on June 17th, where they handed over the Book of Worries, written by the students</description>
     </item>
     <item>
       <title>Workshops Session 17 June</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/workshopsession061725/</link>
+      <link>http://localhost:1313/archive/events/workshopsession061725/</link>
       <pubDate>Tue, 17 Jun 2025 16:36:11 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/workshopsession061725/</guid>
+      <guid>http://localhost:1313/archive/events/workshopsession061725/</guid>
       <description>&lt;p&gt;On the 17th of June the Union hosted a session to write a book full of worries about the workshops. There were students and one alumnus that wanted to make their voices heard. After about an hour of writing and decorating the book, Judith of the CvB and Esther (Representative of the CvB) came to recieve the book personally, and we had a small conversation. On june 24 there was another conversation with representatives of the Union, that went a big deeper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Update about removal of alumni workshop policy (long version)</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</link>
+      <link>http://localhost:1313/archive/log/updateworkshopslong/</link>
       <pubDate>Mon, 09 Jun 2025 15:19:48 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</guid>
+      <guid>http://localhost:1313/archive/log/updateworkshopslong/</guid>
       <description>Update about our work about the removal of the alumni workshop policy, with translated emails to english</description>
     </item>
     <item>
       <title>Update about removal of alumni workshop policy (short version)</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/updateworkshopsshort/</link>
+      <link>http://localhost:1313/archive/log/updateworkshopsshort/</link>
       <pubDate>Mon, 09 Jun 2025 15:19:40 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/updateworkshopsshort/</guid>
+      <guid>http://localhost:1313/archive/log/updateworkshopsshort/</guid>
       <description>Short Summary of our email correspondence with the CvB and our petition</description>
     </item>
     <item>
       <title>Meeting Notes June 5 2025</title>
-      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_060425/</link>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</link>
       <pubDate>Fri, 06 Jun 2025 10:21:54 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_060425/</guid>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</guid>
       <description>About the action to hand over our bundle of thoughts to the CvB and moving it to the 17th, a new edition of the newsletter and an ant end party at the end of the school year.</description>
     </item>
     <item>
       <title>Workshop Session 17 june</title>
-      <link>https://archive.hkustudentunion.nl/calendar/workshops13june/</link>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
       <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/workshops13june/</guid>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
       <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
     </item>
     <item>
       <title>Statement about the new workshop policy</title>
-      <link>https://archive.hkustudentunion.nl/articles/statementaboutthenewworkshoppolicy/</link>
+      <link>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</link>
       <pubDate>Fri, 11 Apr 2025 11:50:52 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/statementaboutthenewworkshoppolicy/</guid>
+      <guid>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</guid>
       <description>First Statement of the Union about the abolishement of the usage of the workshops for first-year alumni</description>
     </item>
   </channel>

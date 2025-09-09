@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 14:21:23 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Sep 2025 14:43:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open brief aan het HKU College van Bestuur</title>
+      <link>http://localhost:1313/articles/briefbigtech/</link>
+      <pubDate>Tue, 09 Sep 2025 14:43:46 +0200</pubDate>
+      <guid>http://localhost:1313/articles/briefbigtech/</guid>
+      <description>Oproep tot een transformatie van onze digitale autonomie</description>
+    </item>
     <item>
       <title>Representation within the HKU</title>
-      <link>https://archive.hkustudentunion.nl/articles/enmedezeggenschap/</link>
+      <link>http://localhost:1313/articles/enmedezeggenschap/</link>
       <pubDate>Thu, 19 Jun 2025 14:21:23 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/enmedezeggenschap/</guid>
+      <guid>http://localhost:1313/articles/enmedezeggenschap/</guid>
       <description>A summary of the different bodies of representation in the HKU and a description of how decisions within the HKU are made</description>
     </item>
     <item>
       <title>The intersection of institutional racism and the Board’s neutrality in times of genocide</title>
-      <link>https://archive.hkustudentunion.nl/articles/institutionalracismpalestine/</link>
+      <link>http://localhost:1313/articles/institutionalracismpalestine/</link>
       <pubDate>Mon, 09 Jun 2025 15:59:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/institutionalracismpalestine/</guid>
+      <guid>http://localhost:1313/articles/institutionalracismpalestine/</guid>
       <description>&lt;p&gt;Since the founding of the HKU student union there have been several issues that have occupied our attention. These subjects are however not disconnected or separate. There are overarching, fundamental problems with the way our school is run that can be ascribed to the decision-making process of the Board (CvB). Some examples of this are the general lack of transparency around the board’s decision-making, and the absence of meaningful consultation with students and teachers that make up our HKU community. The latter issue contains within it a more damning problem: HKU-policy is written and executed from an overwhelmingly white perspective.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HKU complicity in the ongoing genocide</title>
-      <link>https://archive.hkustudentunion.nl/articles/hkucomplicityintheongoinggenocide/</link>
+      <link>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</link>
       <pubDate>Sun, 13 Apr 2025 11:46:48 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/hkucomplicityintheongoinggenocide/</guid>
+      <guid>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</guid>
       <description>About the complicity of the HKU and why this is still relevant.</description>
     </item>
     <item>
       <title>Statement about the new workshop policy</title>
-      <link>https://archive.hkustudentunion.nl/articles/statementaboutthenewworkshoppolicy/</link>
+      <link>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</link>
       <pubDate>Fri, 11 Apr 2025 11:50:52 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/statementaboutthenewworkshoppolicy/</guid>
+      <guid>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</guid>
       <description>First Statement of the Union about the abolishement of the usage of the workshops for first-year alumni</description>
     </item>
     <item>
       <title>Institutional Racism in HKU</title>
-      <link>https://archive.hkustudentunion.nl/articles/institutionalracisminhku/</link>
+      <link>http://localhost:1313/articles/institutionalracisminhku/</link>
       <pubDate>Sat, 05 Apr 2025 11:57:09 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/institutionalracisminhku/</guid>
+      <guid>http://localhost:1313/articles/institutionalracisminhku/</guid>
       <description>&lt;p&gt;In November of last year, a teacher at HKU-Media resigned because of institutional racism. For years, this teacher experienced comments, questions, and a feeling of loneliness as one of the only teachers of colour. This led to them not feeling welcome at HKU. After years of futile attempts to shine a light on this injustice, they did not see another option other than to resign. The fact that an excellent teacher, and a pillar of support for students of colour, did not feel at home for years is utterly unforgivable.&lt;/p&gt;</description>
     </item>
   </channel>
