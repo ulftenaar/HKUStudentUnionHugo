@@ -13,15 +13,15 @@ Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be jo
 
 --- 
 
-#### Workshop Update 
-We posted an update on our activity with the workshops. Read it [here](/archive/log/)
+#### HKU4Palestine win 
+HK4Palestine managed to get the school to cut the ties with Bezalel, read their full statement [here](https://www.instagram.com/p/DOcA5VOiJv9/?img_index=1)
 
 ---
 
-#### New website 
-Check it out! have fun exploring. Don't forget to check our new archives website in the top right.
+#### VIDIUS
+The HKU Student Union is now an official action group of [Vidius](https://vidius.nl/). You will hear more about this very soon.
 
 ---
 
-#### New articles 
-There are two new articles posted on our articles page. One about institutional racism and one on desicionmaking in the HKU.
+#### Instagram
+To grow the Union more in the upcoming year, we have created an [Instagram](https://www.instagram.com/hkustudentunion/), mostly for anouncements and some memes. 
