@@ -6,8 +6,15 @@
     <description>Recent content on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Sep 2025 14:43:46 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 11:08:10 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting Notes September 11 2025</title>
+      <link>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</link>
+      <pubDate>Sat, 13 Sep 2025 11:08:10 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</guid>
+      <description>The First meeting of the school year, to discuss some of our goals and what the next steps are for the Union</description>
+    </item>
     <item>
       <title>Open brief aan het HKU College van Bestuur</title>
       <link>http://localhost:1313/articles/briefbigtech/</link>
@@ -217,6 +224,13 @@
       <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
       <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
       <description>June 12, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archive/meetingnotes/25-09-12---1st-meeting-of-the-year/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/25-09-12---1st-meeting-of-the-year/</guid>
+      <description>&lt;h1 id=&#34;25-09-12---1st-meeting-of-the-year&#34;&gt;25-09-12 - 1st meeting of the year&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;TLDR:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vidius:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A big portion of the talk was about the meeting Roos, Pier, and Fransisco had with vidius on 11 september 2025. The Union is now an official action group of VIDIUS. This means we can use their network to our advantage (and vice versa), and we will be able to recieve some money from them.&lt;/p&gt;&#xA;&lt;p&gt;Very soon they will have a talk with the CvB, about some of our points, like microsoft, institutional racism etc.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
