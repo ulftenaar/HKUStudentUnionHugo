@@ -1,8 +1,8 @@
 +++
 date = '2025-09-20T17:44:31+02:00'
 draft = false
-title = 'Meetingnotes250918'
-summary = ''
+title = 'Meeting Notes September 25 2025'
+summary = 'Discussed a lot of things with VIDIUS'
 categories = ['']
 tags = ['vidius']
 +++
