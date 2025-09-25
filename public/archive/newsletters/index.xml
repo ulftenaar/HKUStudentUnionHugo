@@ -6,8 +6,15 @@
     <description>Recent content in Newsletters on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 May 2025 23:45:49 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 22:14:36 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/archive/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter 003 - Start New year</title>
+      <link>http://localhost:1313/archive/newsletters/newsletter003/</link>
+      <pubDate>Sun, 14 Sep 2025 22:14:36 +0200</pubDate>
+      <guid>http://localhost:1313/archive/newsletters/newsletter003/</guid>
+      <description>New Edition of the newsletter with a very short update</description>
+    </item>
     <item>
       <title>Newsletter 001</title>
       <link>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</link>

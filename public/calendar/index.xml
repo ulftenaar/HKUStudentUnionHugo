@@ -6,8 +6,15 @@
     <description>Recent content in Calendar on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 18:27:37 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 21:16:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October 16th, Oudenoord, Banner Making Event</title>
+      <link>http://localhost:1313/calendar/bannermaking251116/</link>
+      <pubDate>Thu, 25 Sep 2025 21:16:45 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/bannermaking251116/</guid>
+      <description>October 16th, Oudenoord, Banner Making Event</description>
+    </item>
     <item>
       <title>June 26, Paardenveld 18:00, Ant of the Year Party</title>
       <link>http://localhost:1313/calendar/antoftheyearparty/</link>

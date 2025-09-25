@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/calendar/bannermaking251116/</loc>
+    <lastmod>2025-09-25T21:16:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-25T21:16:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/union-info/</loc>
+    <lastmod>2025-09-25T21:16:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</loc>
+    <lastmod>2025-09-25T21:01:14+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</loc>
+    <lastmod>2025-09-20T17:44:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vidius/</loc>
+    <lastmod>2025-09-20T17:44:31+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/newsletters/newsletter003/</loc>
+    <lastmod>2025-09-14T22:14:36+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</loc>
     <lastmod>2025-09-13T11:08:10+02:00</lastmod>
   </url><url>
@@ -12,9 +33,6 @@
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/briefbigtech/</loc>
-    <lastmod>2025-09-09T14:43:46+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -163,7 +181,5 @@
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/archive/meetingnotes/25-09-12---1st-meeting-of-the-year/</loc>
   </url>
 </urlset>

@@ -6,8 +6,36 @@
     <description>Recent content on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Sep 2025 11:08:10 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 21:16:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October 16th, Oudenoord, Banner Making Event</title>
+      <link>http://localhost:1313/calendar/bannermaking251116/</link>
+      <pubDate>Thu, 25 Sep 2025 21:16:45 +0200</pubDate>
+      <guid>http://localhost:1313/calendar/bannermaking251116/</guid>
+      <description>October 16th, Oudenoord, Banner Making Event</description>
+    </item>
+    <item>
+      <title>Meeting Notes September 25 2025</title>
+      <link>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</link>
+      <pubDate>Thu, 25 Sep 2025 21:01:14 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</guid>
+      <description>Discussed a lot about the upcoming big rollout and a new event</description>
+    </item>
+    <item>
+      <title>Meeting Notes September 18 2025</title>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</link>
+      <pubDate>Sat, 20 Sep 2025 17:44:31 +0200</pubDate>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</guid>
+      <description>Discussed a lot of things with VIDIUS</description>
+    </item>
+    <item>
+      <title>Newsletter 003 - Start New year</title>
+      <link>http://localhost:1313/archive/newsletters/newsletter003/</link>
+      <pubDate>Sun, 14 Sep 2025 22:14:36 +0200</pubDate>
+      <guid>http://localhost:1313/archive/newsletters/newsletter003/</guid>
+      <description>New Edition of the newsletter with a very short update</description>
+    </item>
     <item>
       <title>Meeting Notes September 11 2025</title>
       <link>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</link>
@@ -224,13 +252,6 @@
       <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
       <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
       <description>June 12, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/archive/meetingnotes/25-09-12---1st-meeting-of-the-year/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/25-09-12---1st-meeting-of-the-year/</guid>
-      <description>&lt;h1 id=&#34;25-09-12---1st-meeting-of-the-year&#34;&gt;25-09-12 - 1st meeting of the year&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;TLDR:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Vidius:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A big portion of the talk was about the meeting Roos, Pier, and Fransisco had with vidius on 11 september 2025. The Union is now an official action group of VIDIUS. This means we can use their network to our advantage (and vice versa), and we will be able to recieve some money from them.&lt;/p&gt;&#xA;&lt;p&gt;Very soon they will have a talk with the CvB, about some of our points, like microsoft, institutional racism etc.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
