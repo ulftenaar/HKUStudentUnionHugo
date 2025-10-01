@@ -2,7 +2,7 @@
 date = '2025-10-01T09:26:21+02:00'
 draft = false
 title = 'Woonprotest16oktober'
-summary = 'October 16th, Utrecht, Woonprotest'
+summary = 'October 17th, Utrecht, Woonprotest'
 categories = ['']
 tags = ['vidius']
 calendarDate = "2025-10-17"
