@@ -5,6 +5,7 @@ title = 'Woonprotest16oktober'
 summary = 'October 16th, Utrecht, Woonprotest'
 categories = ['']
 tags = ['vidius']
+calendarDate = "17-10-2025"
 +++
 
 ENG 📢WE'VE HAD ENOUGH:📢
