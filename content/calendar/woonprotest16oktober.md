@@ -8,7 +8,7 @@ tags = ['vidius']
 calendarDate = "2025-10-17"
 +++
 
-{{< figure src="/img/calendar/woonprotest16oktober.jpeg" width="300px" class="calpic">}}
+{{< figure src="/img/calendar/woonprotest17oktober.jpeg" width="300px" class="calpic">}}
 
 ENG 📢WE'VE HAD ENOUGH:📢
 Go to the housingprotest 17 oktober in Utrecht!
@@ -29,4 +29,3 @@ Nederland zit in een wooncrisis. Niet omdat wij toevallig pech hebben, niet door
 Het is tijd voor actie! Als studenten geven we de helft van ons inkomen uit aan huur. We blijven steeds langer thuis wonen, simpelweg omdat er niet genoeg kamers zijn. Ondertussen doet de politiek niets om in te grijpen.
 
 Kom naar het protest en sluit je aan bij je lokale studentenvakbond!
-{{< figure src="woonprotest16oktober.jpeg" width="300px" class="calpic">}}
