@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faculty Room on HKU Student Union</title>
-    <link>http://localhost:1313/tags/faculty-room/</link>
+    <link>https://archive.hkustudentunion.nl/tags/faculty-room/</link>
     <description>Recent content in Faculty Room on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jun 2025 15:36:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/faculty-room/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/tags/faculty-room/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Union Faculty Log</title>
-      <link>http://localhost:1313/archive/log/11juniroomupdate/</link>
+      <link>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</link>
       <pubDate>Wed, 11 Jun 2025 15:36:43 +0200</pubDate>
-      <guid>http://localhost:1313/archive/log/11juniroomupdate/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</guid>
       <description>A summary of the Unions activity in trying to recieve a room where we can do meetings in activities</description>
     </item>
   </channel>

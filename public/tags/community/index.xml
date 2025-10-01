@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community on HKU Student Union</title>
-    <link>http://localhost:1313/tags/community/</link>
+    <link>https://archive.hkustudentunion.nl/tags/community/</link>
     <description>Recent content in Community on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Jun 2025 18:27:37 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/tags/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June 26, Paardenveld 18:00, Ant of the Year Party</title>
-      <link>http://localhost:1313/calendar/antoftheyearparty/</link>
+      <link>https://archive.hkustudentunion.nl/calendar/antoftheyearparty/</link>
       <pubDate>Sun, 22 Jun 2025 18:27:37 +0200</pubDate>
-      <guid>http://localhost:1313/calendar/antoftheyearparty/</guid>
+      <guid>https://archive.hkustudentunion.nl/calendar/antoftheyearparty/</guid>
       <description>June 26, Paardenveld 18:00, Ant of the Year Party</description>
     </item>
   </channel>

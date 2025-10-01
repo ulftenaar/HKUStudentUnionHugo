@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetingnotes on HKU Student Union</title>
-    <link>http://localhost:1313/archive/meetingnotes/</link>
+    <link>https://archive.hkustudentunion.nl/archive/meetingnotes/</link>
     <description>Recent content in Meetingnotes on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2025 21:01:14 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/archive/meetingnotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/archive/meetingnotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meeting Notes September 25 2025</title>
-      <link>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/250911meetingnotes/</link>
       <pubDate>Thu, 25 Sep 2025 21:01:14 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/250911meetingnotes/</guid>
       <description>Discussed a lot about the upcoming big rollout and a new event</description>
     </item>
     <item>
       <title>Meeting Notes September 18 2025</title>
-      <link>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes250918/</link>
       <pubDate>Sat, 20 Sep 2025 17:44:31 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes250918/</guid>
       <description>Discussed a lot of things with VIDIUS</description>
     </item>
     <item>
       <title>Meeting Notes September 11 2025</title>
-      <link>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/250912-1stmeetingoftheyear/</link>
       <pubDate>Sat, 13 Sep 2025 11:08:10 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/250912-1stmeetingoftheyear/</guid>
       <description>The First meeting of the school year, to discuss some of our goals and what the next steps are for the Union</description>
     </item>
     <item>
       <title>Meeting Notes June 14</title>
-      <link>http://localhost:1313/archive/meetingnotes/061425cvbmeetingnotes/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/061425cvbmeetingnotes/</link>
       <pubDate>Sat, 14 Jun 2025 19:56:30 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/061425cvbmeetingnotes/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/061425cvbmeetingnotes/</guid>
       <description>Meeting notes of June 14 2025, mainly about the action of June 17</description>
     </item>
     <item>
       <title>Meeting Notes June 5 2025</title>
-      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_060425/</link>
       <pubDate>Fri, 06 Jun 2025 10:21:54 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_060425/</guid>
       <description>About the action to hand over our bundle of thoughts to the CvB and moving it to the 17th, a new edition of the newsletter and an ant end party at the end of the school year.</description>
     </item>
     <item>
       <title>Meeting Notes May 29 2025</title>
-      <link>http://localhost:1313/archive/meetingnotes/meetingnotes_052925/</link>
+      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_052925/</link>
       <pubDate>Thu, 29 May 2025 23:52:10 +0200</pubDate>
-      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes_052925/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_052925/</guid>
       <description>About the workshop policy and a follow-up email to the CvB, planning an action for the workshops, discussed next school year and how to introduce the new first years to the Union,</description>
     </item>
   </channel>

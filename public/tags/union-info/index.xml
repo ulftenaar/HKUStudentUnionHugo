@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Union Info on HKU Student Union</title>
-    <link>http://localhost:1313/tags/union-info/</link>
+    <link>https://archive.hkustudentunion.nl/tags/union-info/</link>
     <description>Recent content in Union Info on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2025 21:16:45 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/union-info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/tags/union-info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>October 16th, Oudenoord, Banner Making Event</title>
-      <link>http://localhost:1313/calendar/bannermaking251116/</link>
+      <link>https://archive.hkustudentunion.nl/calendar/bannermaking251116/</link>
       <pubDate>Thu, 25 Sep 2025 21:16:45 +0200</pubDate>
-      <guid>http://localhost:1313/calendar/bannermaking251116/</guid>
+      <guid>https://archive.hkustudentunion.nl/calendar/bannermaking251116/</guid>
       <description>October 16th, Oudenoord, Banner Making Event</description>
     </item>
     <item>
       <title>Newsletter 003 - Start New year</title>
-      <link>http://localhost:1313/archive/newsletters/newsletter003/</link>
+      <link>https://archive.hkustudentunion.nl/archive/newsletters/newsletter003/</link>
       <pubDate>Sun, 14 Sep 2025 22:14:36 +0200</pubDate>
-      <guid>http://localhost:1313/archive/newsletters/newsletter003/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/newsletters/newsletter003/</guid>
       <description>New Edition of the newsletter with a very short update</description>
     </item>
   </channel>

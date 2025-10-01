@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newsletters on HKU Student Union</title>
-    <link>http://localhost:1313/archive/newsletters/</link>
+    <link>https://archive.hkustudentunion.nl/archive/newsletters/</link>
     <description>Recent content in Newsletters on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Sep 2025 22:14:36 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/archive/newsletters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://archive.hkustudentunion.nl/archive/newsletters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Newsletter 003 - Start New year</title>
-      <link>http://localhost:1313/archive/newsletters/newsletter003/</link>
+      <link>https://archive.hkustudentunion.nl/archive/newsletters/newsletter003/</link>
       <pubDate>Sun, 14 Sep 2025 22:14:36 +0200</pubDate>
-      <guid>http://localhost:1313/archive/newsletters/newsletter003/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/newsletters/newsletter003/</guid>
       <description>New Edition of the newsletter with a very short update</description>
     </item>
     <item>
       <title>Newsletter 001</title>
-      <link>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</link>
+      <link>https://archive.hkustudentunion.nl/archive/newsletters/hsu_newsletter_001/</link>
       <pubDate>Thu, 29 May 2025 23:45:49 +0200</pubDate>
-      <guid>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</guid>
+      <guid>https://archive.hkustudentunion.nl/archive/newsletters/hsu_newsletter_001/</guid>
       <description>The first newsletter of the Union, about the workshops, our structure, platforms and two events.</description>
     </item>
   </channel>
