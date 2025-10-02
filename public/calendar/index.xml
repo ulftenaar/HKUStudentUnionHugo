@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/calendar/</link>
+    <link>http://localhost:1313/calendar/</link>
     <description>Recent content in Calendar on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Oct 2025 09:26:21 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Woonprotest16oktober</title>
-      <link>https://archive.hkustudentunion.nl/calendar/woonprotest16oktober/</link>
+      <link>http://localhost:1313/calendar/woonprotest16oktober/</link>
       <pubDate>Wed, 01 Oct 2025 09:26:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/woonprotest16oktober/</guid>
-      <description>October 16th, Utrecht, Woonprotest</description>
+      <guid>http://localhost:1313/calendar/woonprotest16oktober/</guid>
+      <description>October 17th, Utrecht, Woonprotest</description>
     </item>
     <item>
       <title>October 16th, Oudenoord, Banner Making Event</title>
-      <link>https://archive.hkustudentunion.nl/calendar/bannermaking251116/</link>
+      <link>http://localhost:1313/calendar/bannermaking251116/</link>
       <pubDate>Thu, 25 Sep 2025 21:16:45 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/bannermaking251116/</guid>
+      <guid>http://localhost:1313/calendar/bannermaking251116/</guid>
       <description>October 16th, Oudenoord, Banner Making Event</description>
     </item>
     <item>
       <title>June 26, Paardenveld 18:00, Ant of the Year Party</title>
-      <link>https://archive.hkustudentunion.nl/calendar/antoftheyearparty/</link>
+      <link>http://localhost:1313/calendar/antoftheyearparty/</link>
       <pubDate>Sun, 22 Jun 2025 18:27:37 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/antoftheyearparty/</guid>
+      <guid>http://localhost:1313/calendar/antoftheyearparty/</guid>
       <description>June 26, Paardenveld 18:00, Ant of the Year Party</description>
     </item>
     <item>
       <title>26maysitin</title>
-      <link>https://archive.hkustudentunion.nl/calendar/26maysitin/</link>
+      <link>http://localhost:1313/calendar/26maysitin/</link>
       <pubDate>Tue, 10 Jun 2025 11:48:50 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/26maysitin/</guid>
+      <guid>http://localhost:1313/calendar/26maysitin/</guid>
       <description>26 May 2025, Sit-in &amp;amp; demo for Palestine &amp;amp; Potluck, Oudenoord, 12:00-18:00</description>
     </item>
     <item>
       <title>Actiontraining9june</title>
-      <link>https://archive.hkustudentunion.nl/calendar/actiontraining9june/</link>
+      <link>http://localhost:1313/calendar/actiontraining9june/</link>
       <pubDate>Fri, 06 Jun 2025 11:29:32 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/actiontraining9june/</guid>
+      <guid>http://localhost:1313/calendar/actiontraining9june/</guid>
       <description>June 9, PLUK Utrecht, 19:00, HKU4Palestine Action Training</description>
     </item>
     <item>
       <title>Workshop Session 17 june</title>
-      <link>https://archive.hkustudentunion.nl/calendar/workshops13june/</link>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
       <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/workshops13june/</guid>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
       <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
     </item>
     <item>
       <title>June 25, Malieveld Den Haag 12:00, XR Navo demonstration</title>
-      <link>https://archive.hkustudentunion.nl/calendar/25june25xrnavo/</link>
+      <link>http://localhost:1313/calendar/25june25xrnavo/</link>
       <pubDate>Wed, 14 May 2025 11:25:38 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/25june25xrnavo/</guid>
+      <guid>http://localhost:1313/calendar/25june25xrnavo/</guid>
       <description>June 25, Malieveld Den Haag 12:00, XR Navo demonstration</description>
     </item>
     <item>
       <title>Quiltingforpalestine</title>
-      <link>https://archive.hkustudentunion.nl/calendar/quiltingforpalestine/</link>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
       <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/quiltingforpalestine/</guid>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
       <description>June 12, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HKU-Info on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/tags/hku-info/</link>
+    <link>http://localhost:1313/tags/hku-info/</link>
     <description>Recent content in HKU-Info on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Sep 2025 14:43:46 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/tags/hku-info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hku-info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open brief aan het HKU College van Bestuur</title>
-      <link>https://archive.hkustudentunion.nl/articles/briefbigtech/</link>
+      <link>http://localhost:1313/articles/briefbigtech/</link>
       <pubDate>Tue, 09 Sep 2025 14:43:46 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/briefbigtech/</guid>
+      <guid>http://localhost:1313/articles/briefbigtech/</guid>
       <description>Oproep tot een transformatie van onze digitale autonomie</description>
     </item>
     <item>
       <title>Conversation with CvB June 24 2025</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</link>
+      <link>http://localhost:1313/archive/log/250624conversationcvb/</link>
       <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</guid>
+      <guid>http://localhost:1313/archive/log/250624conversationcvb/</guid>
       <description>The Union had a planned conversation with the CvB about the Union and the role within the HKU and also about the workshops.</description>
     </item>
     <item>
       <title>Attended CMR meeting June 19</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/250619cmrmeeting/</link>
+      <link>http://localhost:1313/archive/log/250619cmrmeeting/</link>
       <pubDate>Fri, 20 Jun 2025 10:37:06 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/250619cmrmeeting/</guid>
+      <guid>http://localhost:1313/archive/log/250619cmrmeeting/</guid>
       <description>The Union joined the CMR meeting as a visitor for the first time, find the full report here</description>
     </item>
     <item>
       <title>Representation within the HKU</title>
-      <link>https://archive.hkustudentunion.nl/articles/enmedezeggenschap/</link>
+      <link>http://localhost:1313/articles/enmedezeggenschap/</link>
       <pubDate>Thu, 19 Jun 2025 14:21:23 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/articles/enmedezeggenschap/</guid>
+      <guid>http://localhost:1313/articles/enmedezeggenschap/</guid>
       <description>A summary of the different bodies of representation in the HKU and a description of how decisions within the HKU are made</description>
     </item>
   </channel>

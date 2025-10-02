@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CvB on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/tags/cvb/</link>
+    <link>http://localhost:1313/tags/cvb/</link>
     <description>Recent content in CvB on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Jun 2025 14:00:34 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/tags/cvb/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cvb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conversation with CvB June 24 2025</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</link>
+      <link>http://localhost:1313/archive/log/250624conversationcvb/</link>
       <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</guid>
+      <guid>http://localhost:1313/archive/log/250624conversationcvb/</guid>
       <description>The Union had a planned conversation with the CvB about the Union and the role within the HKU and also about the workshops.</description>
     </item>
     <item>
       <title>Book of Worries session</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</link>
+      <link>http://localhost:1313/archive/events/250617bookhandonver/</link>
       <pubDate>Fri, 20 Jun 2025 10:18:11 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</guid>
+      <guid>http://localhost:1313/archive/events/250617bookhandonver/</guid>
       <description>A summary of the Session the Union hosted in Nieuwekade on June 17th, where they handed over the Book of Worries, written by the students</description>
     </item>
     <item>
       <title>Union Faculty Log</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</link>
+      <link>http://localhost:1313/archive/log/11juniroomupdate/</link>
       <pubDate>Wed, 11 Jun 2025 15:36:43 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</guid>
+      <guid>http://localhost:1313/archive/log/11juniroomupdate/</guid>
       <description>A summary of the Unions activity in trying to recieve a room where we can do meetings in activities</description>
     </item>
     <item>
       <title>Update about removal of alumni workshop policy (long version)</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</link>
+      <link>http://localhost:1313/archive/log/updateworkshopslong/</link>
       <pubDate>Mon, 09 Jun 2025 15:19:48 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</guid>
+      <guid>http://localhost:1313/archive/log/updateworkshopslong/</guid>
       <description>Update about our work about the removal of the alumni workshop policy, with translated emails to english</description>
     </item>
     <item>
       <title>Update about removal of alumni workshop policy (short version)</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/updateworkshopsshort/</link>
+      <link>http://localhost:1313/archive/log/updateworkshopsshort/</link>
       <pubDate>Mon, 09 Jun 2025 15:19:40 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/updateworkshopsshort/</guid>
+      <guid>http://localhost:1313/archive/log/updateworkshopsshort/</guid>
       <description>Short Summary of our email correspondence with the CvB and our petition</description>
     </item>
     <item>
       <title>Workshop Session 17 june</title>
-      <link>https://archive.hkustudentunion.nl/calendar/workshops13june/</link>
+      <link>http://localhost:1313/calendar/workshops13june/</link>
       <pubDate>Thu, 05 Jun 2025 15:37:26 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/workshops13june/</guid>
+      <guid>http://localhost:1313/calendar/workshops13june/</guid>
       <description>June 17, Nieuwekade, 16:00 - 18:00, Workshop Session</description>
     </item>
     <item>
       <title>Quiltingforpalestine</title>
-      <link>https://archive.hkustudentunion.nl/calendar/quiltingforpalestine/</link>
+      <link>http://localhost:1313/calendar/quiltingforpalestine/</link>
       <pubDate>Thu, 13 Jun 2024 15:28:44 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/quiltingforpalestine/</guid>
+      <guid>http://localhost:1313/calendar/quiltingforpalestine/</guid>
       <description>June 12, Nieuwekade 10:00-17:00, Quilting for Palestine</description>
     </item>
   </channel>

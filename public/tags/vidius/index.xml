@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vidius on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/tags/vidius/</link>
+    <link>http://localhost:1313/tags/vidius/</link>
     <description>Recent content in Vidius on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Oct 2025 09:26:21 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/tags/vidius/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vidius/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Woonprotest16oktober</title>
-      <link>https://archive.hkustudentunion.nl/calendar/woonprotest16oktober/</link>
+      <link>http://localhost:1313/calendar/woonprotest16oktober/</link>
       <pubDate>Wed, 01 Oct 2025 09:26:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/calendar/woonprotest16oktober/</guid>
-      <description>October 16th, Utrecht, Woonprotest</description>
+      <guid>http://localhost:1313/calendar/woonprotest16oktober/</guid>
+      <description>October 17th, Utrecht, Woonprotest</description>
     </item>
     <item>
       <title>Meeting Notes September 18 2025</title>
-      <link>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes250918/</link>
+      <link>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</link>
       <pubDate>Sat, 20 Sep 2025 17:44:31 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes250918/</guid>
+      <guid>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</guid>
       <description>Discussed a lot of things with VIDIUS</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/archive/events/</link>
+    <link>http://localhost:1313/archive/events/</link>
     <description>Recent content in Events on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Jun 2025 10:18:11 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/archive/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/archive/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book of Worries session</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</link>
+      <link>http://localhost:1313/archive/events/250617bookhandonver/</link>
       <pubDate>Fri, 20 Jun 2025 10:18:11 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</guid>
+      <guid>http://localhost:1313/archive/events/250617bookhandonver/</guid>
       <description>A summary of the Session the Union hosted in Nieuwekade on June 17th, where they handed over the Book of Worries, written by the students</description>
     </item>
     <item>
       <title>Workshops Session 17 June</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/workshopsession061725/</link>
+      <link>http://localhost:1313/archive/events/workshopsession061725/</link>
       <pubDate>Tue, 17 Jun 2025 16:36:11 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/workshopsession061725/</guid>
+      <guid>http://localhost:1313/archive/events/workshopsession061725/</guid>
       <description>&lt;p&gt;On the 17th of June the Union hosted a session to write a book full of worries about the workshops. There were students and one alumnus that wanted to make their voices heard. After about an hour of writing and decorating the book, Judith of the CvB and Esther (Representative of the CvB) came to recieve the book personally, and we had a small conversation. On june 24 there was another conversation with representatives of the Union, that went a big deeper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sit-In &amp; Potluck for Palestine</title>
-      <link>https://archive.hkustudentunion.nl/archive/events/26maypotluck/</link>
+      <link>http://localhost:1313/archive/events/26maypotluck/</link>
       <pubDate>Tue, 03 Jun 2025 15:17:16 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/events/26maypotluck/</guid>
+      <guid>http://localhost:1313/archive/events/26maypotluck/</guid>
       <description>A summary of the action on May 26, organised by HKU4Palestine and the Union</description>
     </item>
   </channel>

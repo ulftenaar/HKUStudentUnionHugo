@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Oct 2025 09:26:21 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vidius</title>
-      <link>https://archive.hkustudentunion.nl/tags/vidius/</link>
+      <link>http://localhost:1313/tags/vidius/</link>
       <pubDate>Wed, 01 Oct 2025 09:26:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/vidius/</guid>
+      <guid>http://localhost:1313/tags/vidius/</guid>
       <description></description>
     </item>
     <item>
       <title>Union Info</title>
-      <link>https://archive.hkustudentunion.nl/tags/union-info/</link>
+      <link>http://localhost:1313/tags/union-info/</link>
       <pubDate>Thu, 25 Sep 2025 21:16:45 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/union-info/</guid>
+      <guid>http://localhost:1313/tags/union-info/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Tech</title>
-      <link>https://archive.hkustudentunion.nl/tags/big-tech/</link>
+      <link>http://localhost:1313/tags/big-tech/</link>
       <pubDate>Tue, 09 Sep 2025 14:43:46 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/big-tech/</guid>
+      <guid>http://localhost:1313/tags/big-tech/</guid>
       <description></description>
     </item>
     <item>
       <title>HKU-Info</title>
-      <link>https://archive.hkustudentunion.nl/tags/hku-info/</link>
+      <link>http://localhost:1313/tags/hku-info/</link>
       <pubDate>Tue, 09 Sep 2025 14:43:46 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/hku-info/</guid>
+      <guid>http://localhost:1313/tags/hku-info/</guid>
       <description></description>
     </item>
     <item>
       <title>CvB</title>
-      <link>https://archive.hkustudentunion.nl/tags/cvb/</link>
+      <link>http://localhost:1313/tags/cvb/</link>
       <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/cvb/</guid>
+      <guid>http://localhost:1313/tags/cvb/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshops</title>
-      <link>https://archive.hkustudentunion.nl/tags/workshops/</link>
+      <link>http://localhost:1313/tags/workshops/</link>
       <pubDate>Tue, 24 Jun 2025 14:00:34 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/workshops/</guid>
+      <guid>http://localhost:1313/tags/workshops/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>https://archive.hkustudentunion.nl/tags/community/</link>
+      <link>http://localhost:1313/tags/community/</link>
       <pubDate>Sun, 22 Jun 2025 18:27:37 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/community/</guid>
+      <guid>http://localhost:1313/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Cmr</title>
-      <link>https://archive.hkustudentunion.nl/tags/cmr/</link>
+      <link>http://localhost:1313/tags/cmr/</link>
       <pubDate>Fri, 20 Jun 2025 10:37:06 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/cmr/</guid>
+      <guid>http://localhost:1313/tags/cmr/</guid>
       <description></description>
     </item>
     <item>
       <title>Faculty Room</title>
-      <link>https://archive.hkustudentunion.nl/tags/faculty-room/</link>
+      <link>http://localhost:1313/tags/faculty-room/</link>
       <pubDate>Wed, 11 Jun 2025 15:36:43 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/faculty-room/</guid>
+      <guid>http://localhost:1313/tags/faculty-room/</guid>
       <description></description>
     </item>
     <item>
       <title>Hku4palestine</title>
-      <link>https://archive.hkustudentunion.nl/tags/hku4palestine/</link>
+      <link>http://localhost:1313/tags/hku4palestine/</link>
       <pubDate>Tue, 10 Jun 2025 11:48:50 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/hku4palestine/</guid>
+      <guid>http://localhost:1313/tags/hku4palestine/</guid>
       <description></description>
     </item>
     <item>
       <title>Institutional Racism</title>
-      <link>https://archive.hkustudentunion.nl/tags/institutional-racism/</link>
+      <link>http://localhost:1313/tags/institutional-racism/</link>
       <pubDate>Mon, 09 Jun 2025 15:59:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/institutional-racism/</guid>
+      <guid>http://localhost:1313/tags/institutional-racism/</guid>
       <description></description>
     </item>
     <item>
       <title>Palestine</title>
-      <link>https://archive.hkustudentunion.nl/tags/palestine/</link>
+      <link>http://localhost:1313/tags/palestine/</link>
       <pubDate>Mon, 09 Jun 2025 15:59:21 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/palestine/</guid>
+      <guid>http://localhost:1313/tags/palestine/</guid>
       <description></description>
     </item>
     <item>
       <title>Demiltairisation</title>
-      <link>https://archive.hkustudentunion.nl/tags/demiltairisation/</link>
+      <link>http://localhost:1313/tags/demiltairisation/</link>
       <pubDate>Wed, 14 May 2025 11:25:38 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/tags/demiltairisation/</guid>
+      <guid>http://localhost:1313/tags/demiltairisation/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,221 @@
+:root {
+  --hkublauw: #005ce6;
+  --hkurood: #FF6400;
+  --hkuyellow: #C79F00;
+  --hkugeel: #ffffed;
+  --f_main: font_maintext;
+  --f_title: georgia;
+}
+
+html {
+  scroll-padding-top: 15vh;
+}
+
+body {
+margin: 0;
+background: var(--hkugeel);
+font-family: var(--f_main);
+font-size: 1.1rem;
+}
+
+header {
+  background: var(--hkublauw);
+width:100vw;
+height: min(15vh,200px);
+margin: 0 ;
+display:flex;
+justify-content: space-around;
+position:fixed;
+}
+
+header a{
+flex:1 ;
+align-content:center;
+font-family: var(--f_title);
+font-size:min(1.5rem, 3vw);
+text-align:center;
+
+}
+
+img{
+object-fit:contain;
+}
+
+.fullpage {
+padding: calc(min(15vh,200px)) max(3vw, 20px) 100px;
+
+
+}
+
+footer {
+  background-color: var(--hkugeel);
+  margin-top: 1rem;
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-direction: row;
+  border-top: solid black 2px;
+}
+
+summary{
+  font-family: var(--f_title);
+  font-size: 1.1rem;
+    padding: 0 0 0 0.5rem;
+    font-weight:600;
+    font-style: italic;
+cursor: pointer;
+  width: auto;
+}
+
+summary:hover {
+  color: var(--hkurood);
+}
+
+details:first-of-type summary::marker,
+:is(::-webkit-details-marker) {
+  content: "+ ";
+  font-size: smaller;
+  font-family: monospace;
+  color: var(--hkurood);
+  font-weight: bold;
+}
+
+details[open]:first-of-type summary::marker {
+  content: "− ";
+  color:black;
+}
+
+details:open > summary {
+  color:var(--hkurood);
+}
+
+ol {
+  list-style: lower-roman;
+}
+
+.calpic {
+  float: right;
+}
+
+figcaption {
+  text-align: center;
+}
+
+#breadcrumbs {
+  position:absolute;
+  right: 5rem;
+  top: 1rem;
+}
+
+a {
+  color: var(--hkurood);
+  text-decoration: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  /* text-align: center; */
+
+font-family:var(--f_title);
+}
+
+h1 {
+  /* text-align: center; */
+  font-size: 3rem;
+  text-transform: capitalize;
+  padding: 0;
+}
+
+h4 {
+  text-align: center;
+  font-size: 1.17em; 
+    margin-bottom: 0.2rem;
+}
+
+h5 {
+  font-size: 1em;
+  margin-bottom: 0.2rem;
+}
+
+p { 
+margin-top: 0;}
+
+section{
+  margin: 1em 0 0;
+}
+
+.f_summary {
+  font-weight: 800;
+}
+
+.main{
+flex:2;
+min-width: min(500px, 70vw);
+padding-right: 3rem;
+}
+
+.page {
+background: var(--hkugeel);
+display: flex;
+flex-flow: row wrap-reverse;
+padding: 0 min(5vw, 30px) 0 min(5vw,30px);
+margin: 0 auto;
+}
+
+.side {
+flex:1;
+padding: 0 0 0 1rem;
+min-width: min(200px, 30vw);
+position:sticky;
+align-self: flex-end;
+top: 20vh;
+}
+
+@media only screen and (width <= 892px) {
+.side{
+    position:static;
+    top: 0;
+    align-self: normal;
+
+  }
+
+  .side img {
+    display: none;
+  }
+}
+
+hr {
+border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+
+  &.s  {
+    border: 1px solid black;
+  }
+
+  }
+
+/* Custom fonts!!! */
+@font-face {
+font-family: "Font_MainText";
+src: url("/font/GaramondPremrPro-SmbdSubh.otf");
+}
+
+@font-face { 
+src: url("/font/GaramondPremrPro-BdCapt.otf");
+font-family: "Font_MainText";
+font-weight: bold;
+}
+
+@font-face {
+font-family: "Font_Title";
+src: url("/font/0xProto/0xProtoNerdFontPropo-Regular.ttf");
+
+}
+
+@font-face {
+font-family: "Font_Title";
+src: url("/font/0xProto/0xProtoNerdFontPropo-Bold.ttf");
+font-weight:bold;
+}

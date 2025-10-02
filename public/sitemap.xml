@@ -2,187 +2,190 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://archive.hkustudentunion.nl/tags/</loc>
+    <loc>http://localhost:1313/boxofgrievances/</loc>
+    <lastmod>2025-10-02T17:16:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-10-01T09:26:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/vidius/</loc>
+    <loc>http://localhost:1313/tags/vidius/</loc>
     <lastmod>2025-10-01T09:26:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/woonprotest16oktober/</loc>
+    <loc>http://localhost:1313/calendar/woonprotest16oktober/</loc>
     <lastmod>2025-10-01T09:26:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/bannermaking251116/</loc>
+    <loc>http://localhost:1313/calendar/bannermaking251116/</loc>
     <lastmod>2025-09-25T21:16:45+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/union-info/</loc>
+    <loc>http://localhost:1313/tags/union-info/</loc>
     <lastmod>2025-09-25T21:16:45+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/250911meetingnotes/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/250911meetingnotes/</loc>
     <lastmod>2025-09-25T21:01:14+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes250918/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/meetingnotes250918/</loc>
     <lastmod>2025-09-20T17:44:31+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/newsletters/newsletter003/</loc>
+    <loc>http://localhost:1313/archive/newsletters/newsletter003/</loc>
     <lastmod>2025-09-14T22:14:36+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/250912-1stmeetingoftheyear/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</loc>
     <lastmod>2025-09-13T11:08:10+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/big-tech/</loc>
+    <loc>http://localhost:1313/tags/big-tech/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/hku-info/</loc>
+    <loc>http://localhost:1313/tags/hku-info/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/briefbigtech/</loc>
+    <loc>http://localhost:1313/articles/briefbigtech/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/250624conversationcvb/</loc>
+    <loc>http://localhost:1313/archive/log/250624conversationcvb/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/categories/conversations/</loc>
+    <loc>http://localhost:1313/categories/conversations/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/cvb/</loc>
+    <loc>http://localhost:1313/tags/cvb/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/workshops/</loc>
+    <loc>http://localhost:1313/tags/workshops/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/community/</loc>
+    <loc>http://localhost:1313/tags/community/</loc>
     <lastmod>2025-06-22T18:27:37+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/antoftheyearparty/</loc>
+    <loc>http://localhost:1313/calendar/antoftheyearparty/</loc>
     <lastmod>2025-06-22T18:27:37+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/250619cmrmeeting/</loc>
+    <loc>http://localhost:1313/archive/log/250619cmrmeeting/</loc>
     <lastmod>2025-06-20T10:37:06+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/cmr/</loc>
+    <loc>http://localhost:1313/tags/cmr/</loc>
     <lastmod>2025-06-20T10:37:06+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/events/250617bookhandonver/</loc>
+    <loc>http://localhost:1313/archive/events/250617bookhandonver/</loc>
     <lastmod>2025-06-20T10:18:11+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/enmedezeggenschap/</loc>
+    <loc>http://localhost:1313/articles/enmedezeggenschap/</loc>
     <lastmod>2025-06-19T14:21:23+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/events/workshopsession061725/</loc>
+    <loc>http://localhost:1313/archive/events/workshopsession061725/</loc>
     <lastmod>2025-06-17T16:36:11+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/061425cvbmeetingnotes/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/061425cvbmeetingnotes/</loc>
     <lastmod>2025-06-14T19:56:30+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/categories/emails/</loc>
+    <loc>http://localhost:1313/categories/emails/</loc>
     <lastmod>2025-06-11T15:36:43+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/faculty-room/</loc>
+    <loc>http://localhost:1313/tags/faculty-room/</loc>
     <lastmod>2025-06-11T15:36:43+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</loc>
+    <loc>http://localhost:1313/archive/log/11juniroomupdate/</loc>
     <lastmod>2025-06-11T15:36:43+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/26maysitin/</loc>
+    <loc>http://localhost:1313/calendar/26maysitin/</loc>
     <lastmod>2025-06-10T11:48:50+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/hku4palestine/</loc>
+    <loc>http://localhost:1313/tags/hku4palestine/</loc>
     <lastmod>2025-06-10T11:48:50+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/institutional-racism/</loc>
+    <loc>http://localhost:1313/tags/institutional-racism/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/palestine/</loc>
+    <loc>http://localhost:1313/tags/palestine/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/institutionalracismpalestine/</loc>
+    <loc>http://localhost:1313/articles/institutionalracismpalestine/</loc>
     <lastmod>2025-06-09T15:59:21+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</loc>
+    <loc>http://localhost:1313/archive/log/updateworkshopslong/</loc>
     <lastmod>2025-06-09T15:19:48+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/updateworkshopsshort/</loc>
+    <loc>http://localhost:1313/archive/log/updateworkshopsshort/</loc>
     <lastmod>2025-06-09T15:19:40+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/actiontraining9june/</loc>
+    <loc>http://localhost:1313/calendar/actiontraining9june/</loc>
     <lastmod>2025-06-06T11:29:32+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_060425/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/meetingnotes_060425/</loc>
     <lastmod>2025-06-06T10:21:54+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/contribute/</loc>
+    <loc>http://localhost:1313/contribute/</loc>
     <lastmod>2025-06-05T15:51:44+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/workshops13june/</loc>
+    <loc>http://localhost:1313/calendar/workshops13june/</loc>
     <lastmod>2025-06-05T15:37:26+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/join/</loc>
+    <loc>http://localhost:1313/join/</loc>
     <lastmod>2025-06-05T15:10:49+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/</loc>
+    <loc>http://localhost:1313/articles/</loc>
     <lastmod>2025-06-05T11:40:41+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-06-05T09:18:33+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/sidehome/</loc>
+    <loc>http://localhost:1313/sidehome/</loc>
     <lastmod>2025-06-04T21:53:46+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-06-04T21:32:36+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-04T14:41:03+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/</loc>
     <lastmod>2025-06-04T14:11:22+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/</loc>
+    <loc>http://localhost:1313/calendar/</loc>
     <lastmod>2025-06-03T17:09:27+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/events/26maypotluck/</loc>
+    <loc>http://localhost:1313/archive/events/26maypotluck/</loc>
     <lastmod>2025-06-03T15:17:16+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/log/</loc>
+    <loc>http://localhost:1313/archive/log/</loc>
     <lastmod>2025-05-31T13:03:54+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/events/</loc>
+    <loc>http://localhost:1313/archive/events/</loc>
     <lastmod>2025-05-30T14:00:41+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/newsletters/</loc>
+    <loc>http://localhost:1313/archive/newsletters/</loc>
     <lastmod>2025-05-30T13:58:35+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/meetingnotes/meetingnotes_052925/</loc>
+    <loc>http://localhost:1313/archive/meetingnotes/meetingnotes_052925/</loc>
     <lastmod>2025-05-29T23:52:10+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/finances/financereport_may2025/</loc>
+    <loc>http://localhost:1313/archive/finances/financereport_may2025/</loc>
     <lastmod>2025-05-29T23:48:51+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/newsletters/hsu_newsletter_001/</loc>
+    <loc>http://localhost:1313/archive/newsletters/hsu_newsletter_001/</loc>
     <lastmod>2025-05-29T23:45:49+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/tags/demiltairisation/</loc>
+    <loc>http://localhost:1313/tags/demiltairisation/</loc>
     <lastmod>2025-05-14T11:25:38+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/25june25xrnavo/</loc>
+    <loc>http://localhost:1313/calendar/25june25xrnavo/</loc>
     <lastmod>2025-05-14T11:25:38+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/hkucomplicityintheongoinggenocide/</loc>
+    <loc>http://localhost:1313/articles/hkucomplicityintheongoinggenocide/</loc>
     <lastmod>2025-04-13T11:46:48+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/statementaboutthenewworkshoppolicy/</loc>
+    <loc>http://localhost:1313/articles/statementaboutthenewworkshoppolicy/</loc>
     <lastmod>2025-04-11T11:50:52+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/articles/institutionalracisminhku/</loc>
+    <loc>http://localhost:1313/articles/institutionalracisminhku/</loc>
     <lastmod>2025-04-05T11:57:09+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/calendar/quiltingforpalestine/</loc>
+    <loc>http://localhost:1313/calendar/quiltingforpalestine/</loc>
     <lastmod>2024-06-13T15:28:44+02:00</lastmod>
   </url><url>
-    <loc>https://archive.hkustudentunion.nl/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2023-01-01T08:00:00-07:00</lastmod>
   </url>
 </urlset>

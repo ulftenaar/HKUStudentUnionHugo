@@ -1,0 +1,25 @@
+{{ define "main" }}
+<h1 style="text-align: center">{{ .Title }}</h1>
+<div class="page">
+  <div class="main">
+    {{ .Content }}
+    <hr />
+    <iframe
+      src="https://cryptpad.fr/form/#/1/view/CWv2AAkQ6qM9UmXZpQImNA/TfwFenpE3-hme7Oh3Dg-yC44Q96iKBzhG0IpbFO3Z2o=/embed/auditor=cnlHazVLVGFkT3Vjd25ndm9tWmFXazBuaUtGekdFa0k=/"
+      width="100%"
+      height="800"
+    ></iframe>
+  </div>
+  <div class="side">
+    {{ range .Resources.Match "side.md" }}
+    <h2>{{ .Title }}</h2>
+    {{ .Content}} {{ end }}
+  </div>
+</div>
+<hr />
+<!-- <ul> -->
+<!--   {{ range $name, $taxonomy := .Site.Taxonomies.tags }} -->
+<!--     <li><a href="{{ "/tags/" | relURL }}{{ $name | urlize }}">{{ $name }}</a> ({{ len $taxonomy }})</li> -->
+<!--   {{ end }} -->
+<!-- </ul> -->
+{{ end }}

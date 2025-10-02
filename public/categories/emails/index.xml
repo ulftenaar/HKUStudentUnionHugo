@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emails on HKU Student Union</title>
-    <link>https://archive.hkustudentunion.nl/categories/emails/</link>
+    <link>http://localhost:1313/categories/emails/</link>
     <description>Recent content in Emails on HKU Student Union</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jun 2025 15:36:43 +0200</lastBuildDate>
-    <atom:link href="https://archive.hkustudentunion.nl/categories/emails/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/emails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Union Faculty Log</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</link>
+      <link>http://localhost:1313/archive/log/11juniroomupdate/</link>
       <pubDate>Wed, 11 Jun 2025 15:36:43 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/11juniroomupdate/</guid>
+      <guid>http://localhost:1313/archive/log/11juniroomupdate/</guid>
       <description>A summary of the Unions activity in trying to recieve a room where we can do meetings in activities</description>
     </item>
     <item>
       <title>Update about removal of alumni workshop policy (long version)</title>
-      <link>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</link>
+      <link>http://localhost:1313/archive/log/updateworkshopslong/</link>
       <pubDate>Mon, 09 Jun 2025 15:19:48 +0200</pubDate>
-      <guid>https://archive.hkustudentunion.nl/archive/log/updateworkshopslong/</guid>
+      <guid>http://localhost:1313/archive/log/updateworkshopslong/</guid>
       <description>Update about our work about the removal of the alumni workshop policy, with translated emails to english</description>
     </item>
   </channel>
