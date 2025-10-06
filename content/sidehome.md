@@ -8,18 +8,18 @@ tags = ['']
 
 +++
 
-#### General Student Union meeting 
-Every Thursday at 16:30! Everyone is welcome to join, the meeting can also be joined online
-
---- 
-
 #### HKU4Palestine win 
 HK4Palestine managed to get the school to cut the ties with Bezalel, read their full statement [here](https://www.instagram.com/p/DOcA5VOiJv9/?img_index=1)
 
 ---
 
-#### VIDIUS
-The HKU Student Union is now an official action group of [Vidius](https://vidius.nl/). You will hear more about this very soon.
+#### Box Of Grievances
+Our official, glorious, digital Box Of Grievances is live, fill the unfillable box with everything that bothers you within the HKU, click [here](https://hkustudentunion.nl/boxofgrievances) 
+
+---
+
+#### Banner making event
+We are organizing an event where we together will draw on a blanket and upgrade it to the extremely official HKU Student Union banner. The event will take place in the Oudenoord atrium at 17:30 on October 16th, come by and bring a friend! Read more info about this, and other events on our [Calendar](https://hkustudentunion.nl/calendar)
 
 ---
 
