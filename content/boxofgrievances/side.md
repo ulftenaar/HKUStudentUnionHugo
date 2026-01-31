@@ -7,4 +7,4 @@ categories = ['']
 tags = ['']
 +++
 
-As of right now there is no easy way to share your voice for most HKU Students and teachers. We wanted to make this process easier, so that everyone can make their point. By making this digital, we have created an archive of what is happening under the people of the HKU
+As of right now there is no easy way to share your voice for most HKU Students and teachers. We wanted to make this process easier, so that everyone can make their point. By making this digital, we have created an archive of what is happening under the people of the HKU. The more data we have, the better. This gives a clear representation of what we can work on as the Union.

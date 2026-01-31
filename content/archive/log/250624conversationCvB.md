@@ -55,7 +55,3 @@ One of our most important goals is that we strive for a more transparent HKU. Th
 Other examples of important points for the Union are institutional racism, the tie with the university of bezalel and the use of american Big Tech services.
 
 They mentioned that there being a Union organised by students was something new for the HKU and they still aren't sure how to deal with it.
-
-### Conclusion
-
-After the meeting we did a short debrief. Our heads were full of the newly rescieved information, and we were confused why the HKU didn't inform their students better. We were dissapointed that the CvB said a lot of words, without making any concessions.
