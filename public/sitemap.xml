@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/boxofgrievances/</loc>
-    <lastmod>2025-10-02T17:16:39+02:00</lastmod>
+    <loc>http://localhost:1313/articles/10mythesnl/</loc>
+    <lastmod>2026-11-05T19:51:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-11-05T19:51:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/militarisering/</loc>
+    <lastmod>2026-11-05T19:51:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/big-tech/</loc>
+    <lastmod>2025-10-06T09:34:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/housing-crisis/</loc>
+    <lastmod>2025-10-06T09:34:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/newsletters/newsletter004/</loc>
+    <lastmod>2025-10-06T09:34:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-01T09:26:21+02:00</lastmod>
+    <lastmod>2025-10-06T09:34:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vidius/</loc>
-    <lastmod>2025-10-01T09:26:21+02:00</lastmod>
+    <lastmod>2025-10-06T09:34:40+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boxofgrievances/</loc>
+    <lastmod>2025-10-02T17:16:39+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/calendar/woonprotest16oktober/</loc>
     <lastmod>2025-10-01T09:26:21+02:00</lastmod>
@@ -32,17 +50,11 @@
     <loc>http://localhost:1313/archive/meetingnotes/250912-1stmeetingoftheyear/</loc>
     <lastmod>2025-09-13T11:08:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/big-tech/</loc>
-    <lastmod>2025-09-09T14:43:46+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/hku-info/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/articles/briefbigtech/</loc>
     <lastmod>2025-09-09T14:43:46+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-24T14:00:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/log/250624conversationcvb/</loc>
     <lastmod>2025-06-24T14:00:34+02:00</lastmod>
