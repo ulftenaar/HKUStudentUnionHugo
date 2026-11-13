@@ -26,7 +26,7 @@ Het is begrijpelijk dat er veel vragen zijn onder studenten over militarisering 
 
 De HKU Studentenvakbond verzet zich tegen het idee dat oorlogen uitgevochten moeten worden. We hebben ons verdiept in de materie en gekozen om 10 claims over de noodzaak van militarisering te ontkrachten. Het doel van dit onderzoek is dat studenten hun eigen meningen kunnen vormen over de verhoogde druk op militarisering. Om zo geïnformeerder mee te kunnen doen aan de internationale staking op 20 november.
 
-1\. <https://deanderekrant.nl/kabinet-jetten-zet-in-op-militarisering-van-nederland/> 2. <https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z15449&did=2026D34647> 3. New conscription divides young people | News of the Day  
+1\.  <https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/defensie-werkt-nieuwe-plannen-uit-voor-het-dienmodel>2. <https://www.tweedekamer.nl/kamerstukken/moties/detail?id=2026Z15449&did=2026D34647> 3. <https://www.rijksoverheid.nl/actueel/nieuws/2026/09/11/defensie-werkt-nieuwe-plannen-uit-voor-het-dienmodel>
 4\. <https://www.universiteitenvannederland.nl/onderwerpen/financien/dalende-rijksbijdrage-verhoogt-druk-op-onderwijs-en-onderzoek> 5. <https://www.aob.nl/actueel/artikelen/prinsjesdag-2025-demissionair-kabinet-laat-onderwijs-achter-met-13-miljard-aan-bezuinigingen/>  
 6\. Cultuurpers - Ongecoördineerde stapel bezuinigingen op kunst en cultuur zorgt voor kaalslag van 350 miljoen 7. <https://studenttheses.uu.nl/server/api/core/bitstreams/3ab97ca7-4388-464f-a085-9c3286dc6c53/content>
 
